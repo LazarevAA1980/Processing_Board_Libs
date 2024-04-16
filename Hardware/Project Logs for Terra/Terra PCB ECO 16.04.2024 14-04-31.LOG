@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=ADC-2 Member=U1
+Change component parameters: Designator = "U1" ("U1"); Footprint = "VQFN48L"; UniqueID = "\QCBYZXGL\MYOSTHGW" ("\QCBYZXGL\MYOSTHGW")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "ADC-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "VQFN48L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "ส5101อย04FI"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ADC-1 Member=Component U1 ส5101อย04FI

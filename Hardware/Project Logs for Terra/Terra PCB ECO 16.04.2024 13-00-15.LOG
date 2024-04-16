@@ -1,0 +1,70 @@
+Removed Member From Class: ClassName=Power1.8 Member=R170
+Removed Member From Class: ClassName=Power1.0 Member=R173
+Removed Member From Class: ClassName=Power3.3 Member=R175
+Removed Member From Class: ClassName=Power1.0 Member=R182
+Removed Member From Class: ClassName=Power1.5 Member=R188
+Removed Member From Class: ClassName=Power1.5 Member=R192
+Removed Member From Class: ClassName=Power1.8 Member=R192
+Removed Member From Class: ClassName=Power1.8 Member=R197
+Removed Member From Class: ClassName=Power2.5 Member=R197
+Removed Member From Class: ClassName=Power1.8 Member=R203
+Removed Member From Class: ClassName=Power2.5 Member=R203
+Removed Member From Class: ClassName=Power33cam Member=R203
+Removed Member From Class: ClassName=Power1.8 Member=R204
+Removed Member From Class: ClassName=Power2.5 Member=R205
+Removed Member From Class: ClassName=Power33cam Member=R205
+Removed Member From Class: ClassName=Power33cam Member=R206
+Added Member To Class: ClassName=Power1.8 Member=Component R169 Res2
+Added Member To Class: ClassName=U_Power Member=Component R169 Res2
+Added Member To Class: ClassName=Power3.3 Member=Component R170 Res2
+Added Member To Class: ClassName=Power3.3 Member=Component R171 Res2
+Added Member To Class: ClassName=U_Power Member=Component R171 Res2
+Added Member To Class: ClassName=Power1.0 Member=Component R172 Res2
+Added Member To Class: ClassName=U_Power Member=Component R172 Res2
+Added Member To Class: ClassName=Power1.0 Member=Component R174 Res2
+Added Member To Class: ClassName=U_Power Member=Component R174 Res2
+Added Member To Class: ClassName=Power1.0 Member=Component R176 Res2
+Added Member To Class: ClassName=U_Power Member=Component R176 Res2
+Added Member To Class: ClassName=Power1.0 Member=Component R178 Res2
+Added Member To Class: ClassName=U_Power Member=Component R178 Res2
+Added Member To Class: ClassName=Power1.0 Member=Component R180 Res2
+Added Member To Class: ClassName=U_Power Member=Component R180 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R181 Res2
+Added Member To Class: ClassName=U_Power Member=Component R181 Res2
+Added Member To Class: ClassName=Power1.5 Member=Component R182 Res2
+Added Member To Class: ClassName=Power1.5 Member=Component R183 Res2
+Added Member To Class: ClassName=U_Power Member=Component R183 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R184 Res2
+Added Member To Class: ClassName=U_Power Member=Component R184 Res2
+Added Member To Class: ClassName=Power1.5 Member=Component R185 Res2
+Added Member To Class: ClassName=U_Power Member=Component R185 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R186 Res2
+Added Member To Class: ClassName=U_Power Member=Component R186 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R187 Res2
+Added Member To Class: ClassName=U_Power Member=Component R187 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R189 Res2
+Added Member To Class: ClassName=U_Power Member=Component R189 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R190 Res2
+Added Member To Class: ClassName=U_Power Member=Component R190 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R191 Res2
+Added Member To Class: ClassName=U_Power Member=Component R191 Res2
+Added Member To Class: ClassName=Power2.5 Member=Component R192 Res2
+Added Member To Class: ClassName=Power2.5 Member=Component R193 Res2
+Added Member To Class: ClassName=U_Power Member=Component R193 Res2
+Added Member To Class: ClassName=Power2.5 Member=Component R194 Res2
+Added Member To Class: ClassName=U_Power Member=Component R194 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R195 Res2
+Added Member To Class: ClassName=U_Power Member=Component R195 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R196 Res2
+Added Member To Class: ClassName=U_Power Member=Component R196 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R197 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R198 Res2
+Added Member To Class: ClassName=U_Power Member=Component R198 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R199 Res2
+Added Member To Class: ClassName=U_Power Member=Component R199 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R200 Res2
+Added Member To Class: ClassName=U_Power Member=Component R200 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R201 Res2
+Added Member To Class: ClassName=U_Power Member=Component R201 Res2
+Added Room: Name=U_Xilinx_DDR
+Added Room: Name=U_Xilinx_pwr
