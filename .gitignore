@@ -1,4 +1,4 @@
 *.BAK
 *.SchDocPreview
-__Previews
-
+__Previews/
+Hardware/__Previews
