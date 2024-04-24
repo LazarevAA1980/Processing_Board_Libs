@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xPHY_RX_CLK Pin=U19-K22
+Removed Pin From Net: NetName=xUSB_STP Pin=U19-M15
+Added Pin To Net: NetName=xUSB_STP Pin=U19-H20
+Added Pin To Net: NetName=xPHY_RX_CLK Pin=U19-M16

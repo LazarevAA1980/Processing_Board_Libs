@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R137 Old Footprint=R0603 New Footprint=R0402
+Change component parameters: Designator = "R137" ("R137"); Footprint = "R0603"; UniqueID = "\HGIZTESY\RQTHWSIU" ("\HGIZTESY\RQTHWSIU")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Xilinx DDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130R"; VariantName = "[No Variations]"

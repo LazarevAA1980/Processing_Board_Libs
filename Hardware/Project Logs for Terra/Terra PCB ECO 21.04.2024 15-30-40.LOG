@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ETX_TXD3 Pin=U19-H19
+Removed Pin From Net: NetName=xUSB_DIR Pin=U19-J22
+Removed Pin From Net: NetName=xUSB_STP Pin=U19-K21
+Removed Pin From Net: NetName=xUSB_SCK Pin=U19-K22
+Added Pin To Net: NetName=xUSB_DIR Pin=U19-J21
+Added Pin To Net: NetName=xUSB_SCK Pin=U19-J22
+Added Pin To Net: NetName=ETX_TXD3 Pin=U19-K21
+Added Pin To Net: NetName=xUSB_STP Pin=U19-K22

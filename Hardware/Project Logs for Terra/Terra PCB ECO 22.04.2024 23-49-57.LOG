@@ -1,0 +1,65 @@
+Removed Member From Class: ClassName=Power33cam Member=C181
+Removed Member From Class: ClassName=Power1.8 Member=C184
+Removed Member From Class: ClassName=Xilinx PWR Member=C185
+Removed Member From Class: ClassName=Power33cam Member=C186
+Removed Member From Class: ClassName=Power33cam Member=C193
+Removed Member From Class: ClassName=Power33cam Member=C194
+Removed Member From Class: ClassName=Xilinx PWR Member=C198
+Removed Member From Class: ClassName=Power33cam Member=C199
+Change Component Designator: OldDesignator=   NewDesignator=L13
+Change component parameters: Designator = "C181" ("C181"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\WIRHAKQD" ("\AKNHOVZU\WIRHAKQD")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C184" ("C184"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\LJCZLCPU" ("\AKNHOVZU\LJCZLCPU")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "3.3nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C185" ("C185"); Footprint = "C0805"; UniqueID = "\AKNHOVZU\KDRWHIPM" ("\AKNHOVZU\KDRWHIPM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C186" ("C186"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\UAHWQHXT" ("\AKNHOVZU\UAHWQHXT")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C193" ("C193"); Footprint = "C0805"; UniqueID = "\AKNHOVZU\SMCSXNZC" ("\AKNHOVZU\SMCSXNZC")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C194" ("C194"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\SBYHPIER" ("\AKNHOVZU\SBYHPIER")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C198" ("C198"); Footprint = "C0805"; UniqueID = "\AKNHOVZU\NCVEDBAG" ("\AKNHOVZU\NCVEDBAG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C199" ("C199"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\HVAIPNEC" ("\AKNHOVZU\HVAIPNEC")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power1.0 Member=Component C181 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C184 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C185 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C186 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C193 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C194 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C198 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C199 Cap

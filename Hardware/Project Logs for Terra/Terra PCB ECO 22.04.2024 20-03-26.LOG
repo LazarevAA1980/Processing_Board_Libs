@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD0
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD1
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD2
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD3
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD4
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD5
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD6
+Removed Member From Class: ClassName=Ethernet Member=ETX_RXD7
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD0
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD1
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD2
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD3
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD4
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD5
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD6
+Removed Member From Class: ClassName=Ethernet Member=ETX_TXD7
+Change Net Name : Old Net Name=ETX_MDIP0n New Net Name=PHY_MDIP0n
+Change Net Name : Old Net Name=ETX_MDIP0p New Net Name=PHY_MDIP0p
+Change Net Name : Old Net Name=ETX_MDIP1n New Net Name=PHY_MDIP1n
+Change Net Name : Old Net Name=ETX_MDIP1p New Net Name=PHY_MDIP1p
+Change Net Name : Old Net Name=ETX_MDIP2n New Net Name=PHY_MDIP2n
+Change Net Name : Old Net Name=ETX_MDIP2p New Net Name=PHY_MDIP2p
+Change Net Name : Old Net Name=ETX_MDIP3n New Net Name=PHY_MDIP3n
+Change Net Name : Old Net Name=ETX_MDIP3p New Net Name=PHY_MDIP3p
+Change Net Name : Old Net Name=ETX_RXD0 New Net Name=PHY_RXD0
+Change Net Name : Old Net Name=ETX_RXD1 New Net Name=PHY_RXD1
+Change Net Name : Old Net Name=ETX_RXD2 New Net Name=PHY_RXD2
+Change Net Name : Old Net Name=ETX_RXD3 New Net Name=PHY_RXD3
+Change Net Name : Old Net Name=ETX_RXD4 New Net Name=PHY_RXD4
+Change Net Name : Old Net Name=ETX_RXD5 New Net Name=PHY_RXD5
+Change Net Name : Old Net Name=ETX_RXD6 New Net Name=PHY_RXD6
+Change Net Name : Old Net Name=ETX_RXD7 New Net Name=PHY_RXD7
+Change Net Name : Old Net Name=ETX_TXD0 New Net Name=PHY_TXD0
+Change Net Name : Old Net Name=ETX_TXD1 New Net Name=PHY_TXD1
+Change Net Name : Old Net Name=ETX_TXD2 New Net Name=PHY_TXD2
+Change Net Name : Old Net Name=ETX_TXD3 New Net Name=PHY_TXD3
+Change Net Name : Old Net Name=ETX_TXD4 New Net Name=PHY_TXD4
+Change Net Name : Old Net Name=ETX_TXD5 New Net Name=PHY_TXD5
+Change Net Name : Old Net Name=ETX_TXD6 New Net Name=PHY_TXD6
+Change Net Name : Old Net Name=ETX_TXD7 New Net Name=PHY_TXD7
+Added Member To Class: ClassName=Ethernet Member=Element[7]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[6]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[5]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[4]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[3]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[2]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[1]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[0]: PHY_RXD
+Added Member To Class: ClassName=Ethernet Member=Element[7]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[6]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[5]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[4]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[3]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[2]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[1]: PHY_TXD
+Added Member To Class: ClassName=Ethernet Member=Element[0]: PHY_TXD

@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=xADC4_D4 Pin=U19-AA18
+Removed Pin From Net: NetName=ADC1_D0 Pin=U19-AA19
+Removed Pin From Net: NetName=ADC0_D2 Pin=U19-AA20
+Removed Pin From Net: NetName=ADC0_D3 Pin=U19-AA21
+Removed Pin From Net: NetName=ADC1_D5 Pin=U19-AB18
+Removed Pin From Net: NetName=ADC1_D1 Pin=U19-AB20
+Removed Pin From Net: NetName=ADC0_D6 Pin=U19-AB21
+Removed Pin From Net: NetName=ADC0_D7 Pin=U19-AB22
+Removed Pin From Net: NetName=xADC1_DP Pin=U19-N13
+Removed Pin From Net: NetName=xADC1_DP Pin=U19-N14
+Removed Pin From Net: NetName=ADC1_D12 Pin=U19-N17
+Removed Pin From Net: NetName=ADC1_D8 Pin=U19-P14
+Removed Pin From Net: NetName=ADC1_D14 Pin=U19-P15
+Removed Pin From Net: NetName=ADC1_D13 Pin=U19-P17
+Removed Pin From Net: NetName=xADC0_CLK_P Pin=U19-P19
+Removed Pin From Net: NetName=xADC0_OR Pin=U19-P20
+Removed Pin From Net: NetName=xADC1_DCO Pin=U19-P21
+Removed Pin From Net: NetName=xADC1_OR Pin=U19-P22
+Removed Pin From Net: NetName=ADC1_D9 Pin=U19-R14
+Removed Pin From Net: NetName=ADC1_D15 Pin=U19-R16
+Removed Pin From Net: NetName=ADC1_D10 Pin=U19-R18
+Removed Pin From Net: NetName=xADC0_CLK_N Pin=U19-R19
+Removed Pin From Net: NetName=xADC0_CSn Pin=U19-R21
+Removed Pin From Net: NetName=xADC0_DCO Pin=U19-R22
+Removed Pin From Net: NetName=ADC1_D11 Pin=U19-T18
+Removed Pin From Net: NetName=xADC1_CLK_P Pin=U19-T19
+Removed Pin From Net: NetName=xADC1_CLK_N Pin=U19-T20
+Removed Pin From Net: NetName=xADC1_PWR Pin=U19-T21
+Removed Pin From Net: NetName=ADC1_D6 Pin=U19-U17
+Removed Pin From Net: NetName=ADC1_D7 Pin=U19-U18
+Removed Pin From Net: NetName=ADC0_D8 Pin=U19-U20
+Removed Pin From Net: NetName=xADC1_RESn Pin=U19-U21
+Removed Pin From Net: NetName=xADC1_CSn Pin=U19-U22
+Removed Pin From Net: NetName=xADC2_D2 Pin=U19-V17
+Removed Pin From Net: NetName=ADC0_D14 Pin=U19-V18
+Removed Pin From Net: NetName=ADC0_D15 Pin=U19-V19
+Removed Pin From Net: NetName=ADC0_D9 Pin=U19-V20
+Removed Pin From Net: NetName=xADC1_SDIO Pin=U19-V22
+Removed Pin From Net: NetName=xADC3_D3 Pin=U19-W17
+Removed Pin From Net: NetName=ADC0_D10 Pin=U19-W19
+Removed Pin From Net: NetName=ADC0_D11 Pin=U19-W20
+Removed Pin From Net: NetName=ADC0_D0 Pin=U19-W21
+Removed Pin From Net: NetName=ADC0_D1 Pin=U19-W22
+Removed Pin From Net: NetName=ADC0_D12 Pin=U19-Y18
+Removed Pin From Net: NetName=ADC0_D13 Pin=U19-Y19
+Removed Pin From Net: NetName=ADC0_D4 Pin=U19-Y21
+Removed Pin From Net: NetName=ADC0_D5 Pin=U19-Y22
+Added Component: Designator=TP7(TP_0MM5_1MM0)
+Add component (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MarkPCB"; Value = "+2.8V"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_0MM5_1MM0)
+Add component (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MarkPCB"; Value = "+2.7V"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_0MM5_1MM0)
+Add component (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MarkPCB"; Value = "+1.8V"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_0MM5_1MM0)
+Add component (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MarkPCB"; Value = "+1.2V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC63_1 Pin=TP7-1
+Added Pin To Net: NetName=NetC67_1 Pin=TP8-1
+Added Pin To Net: NetName=NetC71_1 Pin=TP9-1
+Added Pin To Net: NetName=NetC75_1 Pin=TP10-1
+Added Pin To Net: NetName=ADC1_D8 Pin=U19-AA18
+Added Pin To Net: NetName=xADC4_D4 Pin=U19-AA19
+Added Pin To Net: NetName=ADC0_D6 Pin=U19-AA20
+Added Pin To Net: NetName=ADC0_D7 Pin=U19-AA21
+Added Pin To Net: NetName=ADC1_D9 Pin=U19-AB18
+Added Pin To Net: NetName=ADC1_D5 Pin=U19-AB20
+Added Pin To Net: NetName=ADC0_D10 Pin=U19-AB21
+Added Pin To Net: NetName=ADC0_D8 Pin=U19-AB22
+Added Pin To Net: NetName=xADC0_OR Pin=U19-K16
+Added Pin To Net: NetName=xADC1_OR Pin=U19-M15
+Added Pin To Net: NetName=xADC0_DCO Pin=U19-M16
+Added Pin To Net: NetName=xADC1_DCO Pin=U19-M17
+Added Pin To Net: NetName=xADC1_DP Pin=U19-N17
+Added Pin To Net: NetName=ADC1_D12 Pin=U19-P14
+Added Pin To Net: NetName=xADC1_DP Pin=U19-P17
+Added Pin To Net: NetName=ADC0_D0 Pin=U19-P19
+Added Pin To Net: NetName=xADC0_CSn Pin=U19-P20
+Added Pin To Net: NetName=xADC1_PWR Pin=U19-P21
+Added Pin To Net: NetName=xADC1_CSn Pin=U19-P22
+Added Pin To Net: NetName=ADC1_D13 Pin=U19-R14
+Added Pin To Net: NetName=ADC1_D14 Pin=U19-R18
+Added Pin To Net: NetName=ADC0_D1 Pin=U19-R19
+Added Pin To Net: NetName=xADC1_RESn Pin=U19-R21
+Added Pin To Net: NetName=xADC1_SDIO Pin=U19-R22
+Added Pin To Net: NetName=ADC1_D15 Pin=U19-T18
+Added Pin To Net: NetName=ADC0_D2 Pin=U19-T19
+Added Pin To Net: NetName=ADC0_D3 Pin=U19-T20
+Added Pin To Net: NetName=xADC1_CLK_P Pin=U19-T21
+Added Pin To Net: NetName=ADC1_D10 Pin=U19-U17
+Added Pin To Net: NetName=ADC1_D11 Pin=U19-U18
+Added Pin To Net: NetName=ADC0_D12 Pin=U19-U20
+Added Pin To Net: NetName=xADC1_CLK_N Pin=U19-U21
+Added Pin To Net: NetName=xADC0_CLK_P Pin=U19-U22
+Added Pin To Net: NetName=ADC1_D6 Pin=U19-V17
+Added Pin To Net: NetName=xADC2_D2 Pin=U19-V18
+Added Pin To Net: NetName=xADC3_D3 Pin=U19-V19
+Added Pin To Net: NetName=ADC0_D13 Pin=U19-V20
+Added Pin To Net: NetName=xADC0_CLK_N Pin=U19-V22
+Added Pin To Net: NetName=ADC1_D7 Pin=U19-W17
+Added Pin To Net: NetName=ADC0_D14 Pin=U19-W19
+Added Pin To Net: NetName=ADC0_D15 Pin=U19-W20
+Added Pin To Net: NetName=ADC0_D4 Pin=U19-W21
+Added Pin To Net: NetName=ADC0_D5 Pin=U19-W22
+Added Pin To Net: NetName=ADC1_D0 Pin=U19-Y18
+Added Pin To Net: NetName=ADC1_D1 Pin=U19-Y19
+Added Pin To Net: NetName=ADC0_D11 Pin=U19-Y21
+Added Pin To Net: NetName=ADC0_D9 Pin=U19-Y22
+Added Member To Class: ClassName=CAM_POWER Member=Component TP7
+Added Member To Class: ClassName=CAM_POWER Member=Component TP8
+Added Member To Class: ClassName=CAM_POWER Member=Component TP9
+Added Member To Class: ClassName=CAM_POWER Member=Component TP10

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB2_D+ Pin=U27-1
+Removed Pin From Net: NetName=USB2_D- Pin=U27-2
+Added Pin To Net: NetName=USB2_D- Pin=U27-1
+Added Pin To Net: NetName=USB2_D+ Pin=U27-2

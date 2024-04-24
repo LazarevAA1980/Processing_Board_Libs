@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=xUSB_SCK Pin=U19-K16
+Removed Pin From Net: NetName=xENET_RX_N Pin=U19-K22
+Removed Pin From Net: NetName=xPHY_RX_ERR Pin=U19-L21
+Added Pin To Net: NetName=xENET_RX_N Pin=U19-G15
+Added Pin To Net: NetName=xPHY_RX_ERR Pin=U19-G20
+Added Pin To Net: NetName=xUSB_SCK Pin=U19-K22
+Added Pin To Net: NetName=USB_DATA0 Pin=U19-L21

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB_DATA5 Pin=U19-L13
+Removed Pin From Net: NetName=USB_DATA1 Pin=U19-N22
+Added Pin To Net: NetName=USB_DATA1 Pin=U19-L13
+Added Pin To Net: NetName=USB_DATA5 Pin=U19-N22

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=HL8-2
+Removed Pin From Net: NetName=USB2_VBUS Pin=R122-1
+Added Pin To Net: NetName=USB2_VBUS Pin=HL8-1
+Added Pin To Net: NetName=GND Pin=R122-2
+Added Pin To Net: NetName=NetHL8_2 Pin=HL8-2
+Added Pin To Net: NetName=NetHL8_2 Pin=R122-1
+Added Net: Name=NetHL8_2

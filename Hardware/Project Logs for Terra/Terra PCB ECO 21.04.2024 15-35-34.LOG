@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB_DATA1 Pin=U19-J17
+Removed Pin From Net: NetName=xPHY_RX_ERR Pin=U19-K22
+Added Pin To Net: NetName=xPHY_RX_ERR Pin=U19-K13
+Added Pin To Net: NetName=USB_DATA1 Pin=U19-K22

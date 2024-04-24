@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Power5.0 Member=C64
+Removed Member From Class: ClassName=Power5.0 Member=C68
+Removed Member From Class: ClassName=Power5.0 Member=C72
+Removed Member From Class: ClassName=Power5.0 Member=C76
+Change component parameters: Designator = "C64" ("C64"); Footprint = "C0805"; UniqueID = "\IXCKTIJG\ICOBUZAT" ("\IXCKTIJG\ICOBUZAT")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C68" ("C68"); Footprint = "C0805"; UniqueID = "\IXCKTIJG\JMBTUNHG" ("\IXCKTIJG\JMBTUNHG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C72" ("C72"); Footprint = "C0805"; UniqueID = "\IXCKTIJG\TDDPHSSM" ("\IXCKTIJG\TDDPHSSM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C76" ("C76"); Footprint = "C0805"; UniqueID = "\IXCKTIJG\NQJNXGAJ" ("\IXCKTIJG\NQJNXGAJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "CAM_POWER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CAM_POWER Member=Component C64 Cap
+Added Member To Class: ClassName=CAM_POWER Member=Component C68 Cap
+Added Member To Class: ClassName=CAM_POWER Member=Component C72 Cap
+Added Member To Class: ClassName=CAM_POWER Member=Component C76 Cap

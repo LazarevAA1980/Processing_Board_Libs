@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Power1.8 Member=R169
+Removed Member From Class: ClassName=Power1.8 Member=R181
+Removed Member From Class: ClassName=Power1.8 Member=R191
+Removed Member From Class: ClassName=Power1.8 Member=R202
+Change component parameters: Designator = "R169" ("R169"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\EHWOFCWB" ("\AKNHOVZU\EHWOFCWB")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R181" ("R181"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\QXPHZCVI" ("\AKNHOVZU\QXPHZCVI")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R191" ("R191"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\FPZGQZNI" ("\AKNHOVZU\FPZGQZNI")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R202" ("R202"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\HVQGEIKO" ("\AKNHOVZU\HVQGEIKO")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"

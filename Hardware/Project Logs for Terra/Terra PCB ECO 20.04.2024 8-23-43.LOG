@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=CAM_MD_N0 Pin=U19-U20
+Added Pin To Net: NetName=CAM_MD_N3 Pin=U19-V18
+Added Pin To Net: NetName=CAM_MD_N3 Pin=U19-V19
+Added Pin To Net: NetName=CAM_MD_N0 Pin=U19-V20
+Added Pin To Net: NetName=CAM_MD_N1 Pin=U19-W19
+Added Pin To Net: NetName=CAM_MD_N1 Pin=U19-W20
+Added Pin To Net: NetName=CAM_MD_N2 Pin=U19-Y18
+Added Pin To Net: NetName=CAM_MD_N2 Pin=U19-Y19

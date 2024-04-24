@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DDR3_BA0 Pin=U19-Y4
+Removed Pin From Net: NetName=DDR3_A6 Pin=U19-Y6
+Added Pin To Net: NetName=DDR3_A6 Pin=U19-Y4
+Added Pin To Net: NetName=DDR3_BA0 Pin=U19-Y6

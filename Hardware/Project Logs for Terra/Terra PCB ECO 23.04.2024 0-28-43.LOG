@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Power1.0 Member=R174
+Removed Member From Class: ClassName=Power1.0 Member=R178
+Change component parameters: Designator = "R174" ("R174"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\JDTRJNSC" ("\AKNHOVZU\JDTRJNSC")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R178" ("R178"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\ZDMTXBPM" ("\AKNHOVZU\ZDMTXBPM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power1.0 Member=Component TP29

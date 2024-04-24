@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xUSER_IN0 Pin=U19-AA16
+Removed Pin From Net: NetName=CAM_RES Pin=U19-W12
+Added Pin To Net: NetName=CAM_RES Pin=U19-AA16
+Added Pin To Net: NetName=xUSER_IN0 Pin=U19-W12

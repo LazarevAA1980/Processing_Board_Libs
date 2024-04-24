@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DDR3_D3 Pin=U28-F8
+Change Net Name : Old Net Name=DDR3_D3 New Net Name=VTTREF
+Added Pin To Net: NetName=DDR3_D3 Pin=U19-J1
+Added Pin To Net: NetName=DDR3_D3 Pin=U28-F8
+Added Net: Name=DDR3_D3

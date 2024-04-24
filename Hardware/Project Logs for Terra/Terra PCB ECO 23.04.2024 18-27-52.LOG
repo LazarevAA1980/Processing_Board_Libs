@@ -1,0 +1,11 @@
+Change component parameters: Designator = "TP24" ("TP24"); Footprint = "TP_0MM5_1MM0"; UniqueID = "\DVHQYCME\VMOFUPML" ("\DVHQYCME\VMOFUPML")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "UART_USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MarkPCB"; Value = "RX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP25" ("TP25"); Footprint = "TP_0MM5_1MM0"; UniqueID = "\DVHQYCME\XZPJUUGG" ("\DVHQYCME\XZPJUUGG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "UART_USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MarkPCB"; Value = "TX"; VariantName = "[No Variations]"
+Added Component: Designator=TP37(TP_0MM5_1MM0)
+Add component (AddParameter): Name = "ClassName"; Value = "UART_USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MarkPCB"; Value = "GND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP37-1
+Added Member To Class: ClassName=UART_USB Member=Component TP37

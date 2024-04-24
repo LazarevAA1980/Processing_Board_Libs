@@ -1,0 +1,18 @@
+Change Net Name : Old Net Name=xADC0_CLK_N New Net Name=ADC0_CLK_N
+Change Net Name : Old Net Name=xADC0_CLK_P New Net Name=ADC0_CLK_P
+Change Net Name : Old Net Name=xADC0_DCO New Net Name=ADC0_DCO
+Change Net Name : Old Net Name=xADC0_OR New Net Name=ADC0_OR
+Change Net Name : Old Net Name=xADC1_CLK_N New Net Name=ADC1_CLK_N
+Change Net Name : Old Net Name=xADC1_CLK_P New Net Name=ADC1_CLK_P
+Change Net Name : Old Net Name=xADC1_DCO New Net Name=ADC1_DCO
+Change Net Name : Old Net Name=xADC1_OR New Net Name=ADC1_OR
+Added Differential Pair: Name=ADC0_CLK
+Added Differential Pair: Name=ADC1_CLK
+Added Member To Class: ClassName=ADC Member=Wire ADC0_CLK_N
+Added Member To Class: ClassName=ADC Member=Wire ADC0_CLK_P
+Added Member To Class: ClassName=ADC Member=Wire ADC0_DCO
+Added Member To Class: ClassName=ADC Member=Wire ADC0_OR
+Added Member To Class: ClassName=ADC Member=Wire ADC1_CLK_N
+Added Member To Class: ClassName=ADC Member=Wire ADC1_CLK_P
+Added Member To Class: ClassName=ADC Member=Wire ADC1_DCO
+Added Member To Class: ClassName=ADC Member=Wire ADC1_OR

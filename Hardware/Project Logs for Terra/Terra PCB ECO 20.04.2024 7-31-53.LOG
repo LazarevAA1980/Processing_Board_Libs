@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=NetR125_1 New Net Name=QSPI_DQ3
+Change Net Name : Old Net Name=NetR126_1 New Net Name=QSPI_DQ2
+Change Net Name : Old Net Name=NetR127_1 New Net Name=QSPI_CS
+Change Net Name : Old Net Name=NetR128_2 New Net Name=SYS_M0
+Change Net Name : Old Net Name=NetR129_2 New Net Name=SYS_INIT
+Change Net Name : Old Net Name=NetR130_2 New Net Name=SYS_PGB
+Added Member To Class: ClassName=DDR_ADDR Member=Wire FPGA_TCK
+Added Member To Class: ClassName=DDR_ADDR Member=Wire FPGA_TDI
+Added Member To Class: ClassName=DDR_ADDR Member=Wire FPGA_TDO
+Added Member To Class: ClassName=DDR_ADDR Member=Wire FPGA_TMS
+Added Member To Class: ClassName=DDR_ADDR Member=Wire QSPI_CLK
+Added Member To Class: ClassName=DDR_ADDR Member=Wire QSPI_CS
+Added Member To Class: ClassName=DDR_ADDR Member=Wire QSPI_DQ0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire QSPI_DQ1
+Added Member To Class: ClassName=DDR_ADDR Member=Wire QSPI_DQ2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire QSPI_DQ3
+Added Member To Class: ClassName=DDR_ADDR Member=Wire SYS_INIT
+Added Member To Class: ClassName=DDR_ADDR Member=Wire SYS_M0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire SYS_PGB

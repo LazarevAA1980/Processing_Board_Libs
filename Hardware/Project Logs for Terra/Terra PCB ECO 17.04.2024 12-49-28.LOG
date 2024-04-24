@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=DDR3_D2 Pin=U19-A1
+Removed Pin From Net: NetName=DDR3_D11 Pin=U19-B1
+Removed Pin From Net: NetName=DDR3_D13 Pin=U19-B2
+Removed Pin From Net: NetName=DDR3_D15 Pin=U19-C2
+Removed Pin From Net: NetName=DDR3_DQS0_N Pin=U19-D1
+Removed Pin From Net: NetName=DDR3_D9 Pin=U19-D2
+Removed Pin From Net: NetName=DDR3_DQS0_P Pin=U19-E1
+Removed Pin From Net: NetName=DDR3_DM1 Pin=U19-E2
+Removed Pin From Net: NetName=VTTREF Pin=U19-E3
+Removed Pin From Net: NetName=DDR3_D4 Pin=U19-F1
+Removed Pin From Net: NetName=DDR3_D6 Pin=U19-F3
+Removed Pin From Net: NetName=DDR3_D14 Pin=U19-G1
+Removed Pin From Net: NetName=DDR3_D10 Pin=U19-G2
+Removed Pin From Net: NetName=DDR3_D12 Pin=U19-G3
+Removed Pin From Net: NetName=DDR3_D8 Pin=U19-H2
+Removed Pin From Net: NetName=DDR3_D3 Pin=U19-H3
+Removed Pin From Net: NetName=DDR3_D0 Pin=U19-H4
+Removed Pin From Net: NetName=DDR3_D20 Pin=U19-H5
+Removed Pin From Net: NetName=DDR3_DM0 Pin=U19-J1
+Removed Pin From Net: NetName=DDR3_DQS1_N Pin=U19-J2
+Removed Pin From Net: NetName=DDR3_DM2 Pin=U19-J4
+Removed Pin From Net: NetName=DDR3_D24 Pin=U19-J5
+Removed Pin From Net: NetName=DDR3_D19 Pin=U19-J6
+Removed Pin From Net: NetName=DDR3_D1 Pin=U19-K1
+Removed Pin From Net: NetName=DDR3_DQS1_P Pin=U19-K2
+Removed Pin From Net: NetName=DDR3_D5 Pin=U19-K3
+Removed Pin From Net: NetName=DDR3_D21 Pin=U19-K6
+Removed Pin From Net: NetName=DDR3_DQS2_N Pin=U19-L1
+Removed Pin From Net: NetName=DDR3_D7 Pin=U19-L3
+Removed Pin From Net: NetName=DDR3_D16 Pin=U19-L4
+Removed Pin From Net: NetName=DDR3_D23 Pin=U19-L5
+Removed Pin From Net: NetName=DDR3_DQS2_P Pin=U19-M1
+Removed Pin From Net: NetName=DDR3_D22 Pin=U19-M2
+Removed Pin From Net: NetName=DDR3_D17 Pin=U19-M3
+Removed Pin From Net: NetName=DDR3_DM3 Pin=U19-M5
+Removed Pin From Net: NetName=DDR3_D28 Pin=U19-M6
+Removed Pin From Net: NetName=DDR3_D18 Pin=U19-N2
+Removed Pin From Net: NetName=VTTREF Pin=U19-N3
+Removed Pin From Net: NetName=DDR3_D26 Pin=U19-N4
+Removed Pin From Net: NetName=DDR3_D31 Pin=U19-N5
+Removed Pin From Net: NetName=DDR3_D27 Pin=U19-P1
+Removed Pin From Net: NetName=DDR3_D29 Pin=U19-P2
+Removed Pin From Net: NetName=DDR3_DQS3_N Pin=U19-P4
+Removed Pin From Net: NetName=DDR3_DQS3_P Pin=U19-P5
+Removed Pin From Net: NetName=DDR3_D30 Pin=U19-P6
+Removed Pin From Net: NetName=DDR3_D25 Pin=U19-R1
+Added Component: Designator=U?(FBG484)
+Add component (AddParameter): Name = "Block RAM Blocks (18Kb)"; Value = "730"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Block RAM Blocks (36Kb)"; Value = "365"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Block RAM Blocks (Max Kb)"; Value = "13140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLBs (Max Distributed RAM Kb)"; Value = "2888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLBs (Slices)"; Value = "33650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Mgmt Tiles (CMTs)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DC and Switching Characteristics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Package File"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.xilinx.com/support/packagefiles/a7packages/xc7a200tfbg484pkg.txt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Packaging and Pinout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "v1.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DSP48E1 Slices"; Value = "740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "XC7A200T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Cells"; Value = "215360"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Xilinx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max User I/O"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Flip-Chip Lidless BGA, Body 23 x 23 mm, 1.0 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FBG484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev 1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed Grade"; Value = "-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "XC7A200T-2FBG484I"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DDR3_D2 Pin=U?-A1
+Added Pin To Net: NetName=DDR3_D6 Pin=U?-B1
+Added Pin To Net: NetName=DDR3_D4 Pin=U?-B2
+Added Pin To Net: NetName=DDR3_D0 Pin=U?-C2
+Added Pin To Net: NetName=DDR3_DQS0_N Pin=U?-D1
+Added Pin To Net: NetName=DDR3_DM0 Pin=U?-D2
+Added Pin To Net: NetName=DDR3_DQS0_P Pin=U?-E1
+Added Pin To Net: NetName=DDR3_D7 Pin=U?-E2
+Added Pin To Net: NetName=VTTREF Pin=U?-E3
+Added Pin To Net: NetName=DDR3_D5 Pin=U?-F1
+Added Pin To Net: NetName=DDR3_D3 Pin=U?-F3
+Added Pin To Net: NetName=DDR3_D1 Pin=U?-G1
+Added Pin To Net: NetName=DDR3_DM1 Pin=U?-G2
+Added Pin To Net: NetName=DDR3_D9 Pin=U?-G3
+Added Pin To Net: NetName=DDR3_D10 Pin=U?-H2
+Added Pin To Net: NetName=DDR3_D8 Pin=U?-H3
+Added Pin To Net: NetName=DDR3_D15 Pin=U?-H4
+Added Pin To Net: NetName=DDR3_D11 Pin=U?-H5
+Added Pin To Net: NetName=DDR3_D12 Pin=U?-J1
+Added Pin To Net: NetName=DDR3_DQS1_N Pin=U?-J2
+Added Pin To Net: NetName=DDR3_D22 Pin=U?-J4
+Added Pin To Net: NetName=DDR3_D13 Pin=U?-J5
+Added Pin To Net: NetName=DDR3_D19 Pin=U?-J6
+Added Pin To Net: NetName=DDR3_D14 Pin=U?-K1
+Added Pin To Net: NetName=DDR3_DQS1_P Pin=U?-K2
+Added Pin To Net: NetName=DDR3_D20 Pin=U?-K3
+Added Pin To Net: NetName=DDR3_D21 Pin=U?-K6
+Added Pin To Net: NetName=DDR3_DQS2_N Pin=U?-L1
+Added Pin To Net: NetName=DDR3_D18 Pin=U?-L3
+Added Pin To Net: NetName=DDR3_D16 Pin=U?-L4
+Added Pin To Net: NetName=DDR3_D23 Pin=U?-L5
+Added Pin To Net: NetName=DDR3_DQS2_P Pin=U?-M1
+Added Pin To Net: NetName=DDR3_DM2 Pin=U?-M2
+Added Pin To Net: NetName=DDR3_D17 Pin=U?-M3
+Added Pin To Net: NetName=DDR3_DM3 Pin=U?-M5
+Added Pin To Net: NetName=DDR3_D28 Pin=U?-M6
+Added Pin To Net: NetName=DDR3_D27 Pin=U?-N2
+Added Pin To Net: NetName=VTTREF Pin=U?-N3
+Added Pin To Net: NetName=DDR3_D25 Pin=U?-N4
+Added Pin To Net: NetName=DDR3_D29 Pin=U?-N5
+Added Pin To Net: NetName=DDR3_D24 Pin=U?-P1
+Added Pin To Net: NetName=DDR3_D31 Pin=U?-P2
+Added Pin To Net: NetName=DDR3_DQS3_N Pin=U?-P4
+Added Pin To Net: NetName=DDR3_DQS3_P Pin=U?-P5
+Added Pin To Net: NetName=DDR3_D30 Pin=U?-P6
+Added Pin To Net: NetName=DDR3_D26 Pin=U?-R1
+Added Member To Class: ClassName=U_Xilinx_DDR Member=Component U? XC7A200T-2FBG484I

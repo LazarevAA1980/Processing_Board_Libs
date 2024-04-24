@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=PLIS_SYS Member=FPGA_TCK
+Removed Member From Class: ClassName=PLIS_SYS Member=FPGA_TDI
+Removed Member From Class: ClassName=PLIS_SYS Member=FPGA_TDO
+Removed Member From Class: ClassName=PLIS_SYS Member=FPGA_TMS
+Removed Member From Class: ClassName=PLIS_SYS Member=QSPI_CLK
+Removed Member From Class: ClassName=PLIS_SYS Member=QSPI_CS
+Removed Member From Class: ClassName=PLIS_SYS Member=QSPI_DQ0
+Removed Member From Class: ClassName=PLIS_SYS Member=QSPI_DQ1
+Removed Member From Class: ClassName=PLIS_SYS Member=QSPI_DQ2
+Removed Member From Class: ClassName=PLIS_SYS Member=QSPI_DQ3
+Removed Member From Class: ClassName=PLIS_SYS Member=SYS_INIT
+Removed Member From Class: ClassName=PLIS_SYS Member=SYS_M0
+Removed Member From Class: ClassName=PLIS_SYS Member=SYS_PGB
+Change Class Name : Old Net Name=PLIS_SYS New Net Name=CAMERA
+Added Class: Name=PLIS_SYS

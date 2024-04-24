@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PHY_RXD0 Pin=U19-M18
+Removed Pin From Net: NetName=xPHY_GTX_CLK Pin=U19-N18
+Added Pin To Net: NetName=xPHY_GTX_CLK Pin=U19-M18
+Added Pin To Net: NetName=PHY_RXD0 Pin=U19-N18

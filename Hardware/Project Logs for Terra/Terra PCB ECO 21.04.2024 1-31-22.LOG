@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=CAM_MD1_N Pin=X4-3
+Removed Pin From Net: NetName=CAM_MD1_P Pin=X4-4
+Removed Pin From Net: NetName=CAM_MD0_N Pin=X4-6
+Removed Pin From Net: NetName=CAM_MD3_N Pin=X4-15
+Added Pin To Net: NetName=FSTROBE Pin=U19-V17
+Added Pin To Net: NetName=CAM_MD0_N Pin=X4-7
+Added Pin To Net: NetName=CAM_MD1_P Pin=X4-12
+Added Pin To Net: NetName=CAM_MD1_N Pin=X4-13
+Added Pin To Net: NetName=CAM_MD3_N Pin=X4-16
+Added Pin To Net: NetName=CAM_MD0_P Pin=U19-U20
+Added Pin To Net: NetName=CAM_MD0_P Pin=X4-6
+Added Net: Name=CAM_MD0_P
+Added Pin To Net: NetName=CAM_MD2_N Pin=U19-Y19
+Added Pin To Net: NetName=CAM_MD2_N Pin=X4-4
+Added Net: Name=CAM_MD2_N
+Added Pin To Net: NetName=CAM_MD2_P Pin=U19-Y18
+Added Pin To Net: NetName=CAM_MD2_P Pin=X4-3
+Added Net: Name=CAM_MD2_P
+Added Pin To Net: NetName=CAM_MD3_P Pin=U19-V18
+Added Pin To Net: NetName=CAM_MD3_P Pin=X4-15
+Added Net: Name=CAM_MD3_P
+Added Member To Class: ClassName=PLIS_SYS Member=Wire CAM_MD0_P
+Added Member To Class: ClassName=PLIS_SYS Member=Wire CAM_MD2_N
+Added Member To Class: ClassName=PLIS_SYS Member=Wire CAM_MD2_P
+Added Member To Class: ClassName=PLIS_SYS Member=Wire CAM_MD3_P

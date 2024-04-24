@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=NetC77_1 New Net Name=zENET_RX_P
+Change Net Name : Old Net Name=NetC78_2 New Net Name=zENET_RX_N
+Change Net Name : Old Net Name=NetC79_2 New Net Name=zENET_TX_P
+Change Net Name : Old Net Name=NetC80_2 New Net Name=zENET_TX_N
+Change Net Name : Old Net Name=NetR78_1 New Net Name=ENET_LED6
+Change Net Name : Old Net Name=NetR79_1 New Net Name=ENET_LED5
+Change Net Name : Old Net Name=NetR80_1 New Net Name=ENET_LED4
+Change Net Name : Old Net Name=NetR81_1 New Net Name=ENET_LED3
+Change Net Name : Old Net Name=NetR82_1 New Net Name=ENET_LED2
+Change Net Name : Old Net Name=NetR83_1 New Net Name=ENET_LED1
+Change Net Name : Old Net Name=xENET_RX_N New Net Name=ENET_RX_P
+Change Net Name : Old Net Name=xENET_RX_P New Net Name=ENET_RX_N
+Change Net Name : Old Net Name=xENET_TX_N New Net Name=ENET_TX_P
+Change Net Name : Old Net Name=xENET_TX_P New Net Name=ENET_TX_N
+Added Class: Name=Ethernet
+Added Differential Pair: Name=ENET_RX
+Added Differential Pair: Name=ENET_TX

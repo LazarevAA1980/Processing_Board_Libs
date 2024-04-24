@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xUSER_IN1 Pin=U19-AB16
+Removed Pin From Net: NetName=FSTROBE Pin=U19-Y11
+Added Pin To Net: NetName=FSTROBE Pin=U19-AB16
+Added Pin To Net: NetName=xUSER_IN1 Pin=U19-Y11

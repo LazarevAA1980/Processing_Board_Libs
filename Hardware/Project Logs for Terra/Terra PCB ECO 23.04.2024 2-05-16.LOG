@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Power33cam Member=HL12
+Removed Member From Class: ClassName=Power33cam Member=R204
+Change component parameters: Designator = "HL12" ("HL12"); Footprint = "KP-1608_16x08x11_L"; UniqueID = "\AKNHOVZU\IFILWUSY" ("\AKNHOVZU\IFILWUSY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LxWxH(mm)"; Value = "1,6x0,8x1,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KP-1608_16x08x11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "KP-1608MGC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R204" ("R204"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\HQWLRNMJ" ("\AKNHOVZU\HQWLRNMJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "300R"; VariantName = "[No Variations]"

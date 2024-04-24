@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Power1.8 Member=R195
+Change component parameters: Designator = "R195" ("R195"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\QDPSBSJP" ("\AKNHOVZU\QDPSBSJP")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"

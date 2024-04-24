@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Xilinx PWR Member=C209
+Removed Member From Class: ClassName=Power33cam Member=HL11
+Removed Member From Class: ClassName=Power33cam Member=R198
+Removed Member From Class: ClassName=Power33cam Member=VD1
+Change component parameters: Designator = "C209" ("C209"); Footprint = "C0805"; UniqueID = "\AKNHOVZU\APPQSUZK" ("\AKNHOVZU\APPQSUZK")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power33cam"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL11" ("HL11"); Footprint = "KP-1608_16X08X11_L"; UniqueID = "\AKNHOVZU\UQITVDQF" ("\AKNHOVZU\UQITVDQF")
+Change component parameters (AddParameter): Name = "ClassName"; Value = " "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LxWxH(mm)"; Value = "1,6x0,8x1,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KP-1608_16x08x11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "KP-1608MGC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R195" ("R195"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\QDPSBSJP" ("\AKNHOVZU\QDPSBSJP")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power33cam"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R198" ("R198"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\SQBJKWZG" ("\AKNHOVZU\SQBJKWZG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = " "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD1" ("VD1"); Footprint = "sod523"; UniqueID = "\AKNHOVZU\SWTIJZCM" ("\AKNHOVZU\SWTIJZCM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = " "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOD523"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1PS79SB30,115"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power33cam Member=Component C209 Cap
+Added Member To Class: ClassName=Power33cam Member=Component R195 Res2

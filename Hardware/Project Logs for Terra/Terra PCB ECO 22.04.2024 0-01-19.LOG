@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xCAM_SCL Pin=U19-AA9
+Removed Pin From Net: NetName=xEXT_SDA Pin=U19-W10
+Added Pin To Net: NetName=xEXT_SDA Pin=U19-AA9
+Added Pin To Net: NetName=xCAM_SCL Pin=U19-W10

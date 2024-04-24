@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Power1.8 Member=C194
+Change component parameters: Designator = "C193" ("C193"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\SBYHPIER" ("\AKNHOVZU\SBYHPIER")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power1.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C194" ("C194"); Footprint = "C0805"; UniqueID = "\AKNHOVZU\SMCSXNZC" ("\AKNHOVZU\SMCSXNZC")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power1.8 Member=Component C193 Cap

@@ -318,9 +318,9 @@ OutputEnabled20_OutputMedium2=0
 OutputEnabled20_OutputMedium3=0
 OutputEnabled20_OutputMedium4=0
 OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=216.74|XCorrection=0.01|YCorrection=0.01|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=211.68|XCorrection=0.01|YCorrection=0.01|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration20_Name1=OutputConfigurationParameter1
-Configuration20_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=7750000|PrintAreaLowerLeftCornerY=15790000|PrintAreaUpperRightCornerX=60890000|PrintAreaUpperRightCornerY=45810000|Record=PcbPrintView
+Configuration20_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=7433465|PrintAreaLowerLeftCornerY=13742913|PrintAreaUpperRightCornerX=61842913|PrintAreaUpperRightCornerY=45278346|Record=PcbPrintView
 Configuration20_Name2=OutputConfigurationParameter2
 Configuration20_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration20_Name3=OutputConfigurationParameter3
@@ -341,9 +341,9 @@ OutputEnabled21_OutputMedium2=0
 OutputEnabled21_OutputMedium3=0
 OutputEnabled21_OutputMedium4=0
 OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=211.45|XCorrection=0.01|YCorrection=0.01|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=207.64|XCorrection=0.01|YCorrection=0.01|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration21_Name1=OutputConfigurationParameter1
-Configuration21_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=6930000|PrintAreaLowerLeftCornerY=15790000|PrintAreaUpperRightCornerX=61400000|PrintAreaUpperRightCornerY=44290000|Record=PcbPrintView
+Configuration21_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=7275984|PrintAreaLowerLeftCornerY=14018504|PrintAreaUpperRightCornerX=62748425|PrintAreaUpperRightCornerY=45593307|Record=PcbPrintView
 Configuration21_Name2=OutputConfigurationParameter2
 Configuration21_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=True|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration21_Name3=OutputConfigurationParameter3
@@ -364,7 +364,7 @@ OutputEnabled22_OutputMedium2=0
 OutputEnabled22_OutputMedium3=0
 OutputEnabled22_OutputMedium4=0
 OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.80|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
 Configuration22_Name1=OutputConfigurationParameter1
 Configuration22_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=35599436|ViewY=37580051|LookAtX=23900000|LookAtY=35800024|LookAtZ=-1000|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.06492535095282E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ViewConfig=
 OutputType23=PCB 3D Print

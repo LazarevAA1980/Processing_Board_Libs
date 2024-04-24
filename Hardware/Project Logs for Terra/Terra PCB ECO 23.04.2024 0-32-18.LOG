@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Power1.8 Member=C194
+Change Component Designator: OldDesignator=C193 NewDesignator=C194
+Change Component Designator: OldDesignator=C194 NewDesignator=C193
+Change component parameters: Designator = "C194" ("C194"); Footprint = "C0402"; UniqueID = "\AKNHOVZU\SBYHPIER" ("\AKNHOVZU\SBYHPIER")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DDR3_D4 Pin=U19-B2
+Removed Pin From Net: NetName=DDR3_D13 Pin=U19-J5
+Added Pin To Net: NetName=DDR3_D13 Pin=U19-B2
+Added Pin To Net: NetName=DDR3_D4 Pin=U19-J5
+Added Member To Class: ClassName=U_Xilinx_main Member=Component U19 XC7A200T-2FBG484I
+Added Member To Class: ClassName=U_Xilinx_pwr Member=Component U28 MT41J256M16HA-125-E

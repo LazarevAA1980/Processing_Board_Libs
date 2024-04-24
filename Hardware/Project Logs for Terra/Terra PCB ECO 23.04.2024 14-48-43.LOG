@@ -1,0 +1,6 @@
+Change component parameters: Designator = "R196" ("R196"); Footprint = "R0402"; UniqueID = "\AKNHOVZU\AQQLJMCL" ("\AKNHOVZU\AQQLJMCL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Power33cam"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power33cam Member=Component R196 Res2

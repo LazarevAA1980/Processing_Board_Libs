@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Xilinx DDR Member=HL10
+Removed Member From Class: ClassName=Xilinx DDR Member=R137
+Removed Member From Class: ClassName=Xilinx DDR Member=VT1
+Change component parameters: Designator = "HL10" ("HL10"); Footprint = "KP-1608_16X08X11_L"; UniqueID = "\HGIZTESY\KQZOQVDB" ("\HGIZTESY\KQZOQVDB")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LxWxH(mm)"; Value = "1,6x0,8x1,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KP-1608_16x08x11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "KP-1608MGC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R137" ("R137"); Footprint = "R0402"; UniqueID = "\HGIZTESY\RQTHWSIU" ("\HGIZTESY\RQTHWSIU")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "130R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1" ("VT1"); Footprint = "SOT23_123"; UniqueID = "\HGIZTESY\KKZREXCM" ("\HGIZTESY\KKZREXCM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "IRLML6244TRPbF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAM_MC_P Pin=U19-U17
+Added Pin To Net: NetName=CAM_MC_N Pin=U19-U18
+Added Pin To Net: NetName=CAM_EN Pin=U19-AA18
+Added Pin To Net: NetName=CAM_EN Pin=VD1-2
+Added Net: Name=CAM_EN
+Added Pin To Net: NetName=CAM_MCLK Pin=U19-W17
+Added Pin To Net: NetName=CAM_MCLK Pin=X4-23
+Added Net: Name=CAM_MCLK
+Added Pin To Net: NetName=CAM_RES Pin=U19-AB18
+Added Pin To Net: NetName=CAM_RES Pin=X4-26
+Added Net: Name=CAM_RES
+Added Room: Name=Xilinx PWR
