@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=USB2_VBUS Pin=HL6-1
+Removed Pin From Net: NetName=USB2_VBUS Pin=HL7-1
+Removed Pin From Net: NetName=USB2_VBUS Pin=R118-2
+Removed Pin From Net: NetName=USB2_VBUS Pin=U26-1
+Change component parameters: Designator = "R118" ("R118"); Footprint = "R0402"; UniqueID = "\DVHQYCME\TXOUAFHF" ("\DVHQYCME\TXOUAFHF")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "UART_USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R119" ("R119"); Footprint = "R0402"; UniqueID = "\DVHQYCME\TTDUOTFL" ("\DVHQYCME\TTDUOTFL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "UART_USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R120" ("R120"); Footprint = "R0402"; UniqueID = "\DVHQYCME\UBTZOOZY" ("\DVHQYCME\UBTZOOZY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "UART_USB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2.5V Pin=HL6-1
+Added Pin To Net: NetName=+2.5V Pin=HL7-1
+Added Pin To Net: NetName=+2.5V Pin=R118-2
+Added Pin To Net: NetName=+2.5V Pin=U26-1

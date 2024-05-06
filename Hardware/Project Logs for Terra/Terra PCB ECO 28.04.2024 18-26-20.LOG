@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetR80_2 Pin=X5-12
+Added Pin To Net: NetName=NetR80_2 Pin=X5-10
+Added Pin To Net: NetName=+2.5V Pin=X5-12

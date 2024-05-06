@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+3.3V Pin=C52-1
+Removed Pin From Net: NetName=+3.3V Pin=C53-1
+Removed Pin From Net: NetName=+3.3V Pin=C54-1
+Removed Pin From Net: NetName=+3.3V Pin=C55-1
+Removed Pin From Net: NetName=+3.3V Pin=U9-3
+Removed Pin From Net: NetName=+3.3V Pin=U9-5
+Change Component Comment : Designator=U9 Old Comment=TPT1255-SO1R New Comment=MCP2542WFD
+Change component parameters: Designator = "U9" ("U9"); Footprint = "SO8"; UniqueID = "\BACKPQRQ\EYYIQWGS" ("\BACKPQRQ\EYYIQWGS")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "CAN BUS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SO8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MCP2542WFD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2.5V Pin=C52-1
+Added Pin To Net: NetName=+2.5V Pin=C53-1
+Added Pin To Net: NetName=+5.0V Pin=C54-1
+Added Pin To Net: NetName=+5.0V Pin=C55-1
+Added Pin To Net: NetName=+5.0V Pin=U9-3
+Added Pin To Net: NetName=+2.5V Pin=U9-5
