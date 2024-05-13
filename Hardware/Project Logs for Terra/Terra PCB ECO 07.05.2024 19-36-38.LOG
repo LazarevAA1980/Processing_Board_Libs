@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetU20_41 New Net Name=ADC_HV_EN
+Change Net Name : Old Net Name=NetU20_43 New Net Name=ADC_LDAC
+Change Net Name : Old Net Name=NetU20_44 New Net Name=LS_EN_POW
+Change Net Name : Old Net Name=NetU20_46 New Net Name=LS_DISABLE
+Change Net Name : Old Net Name=NetU20_47 New Net Name=LS_SHDN

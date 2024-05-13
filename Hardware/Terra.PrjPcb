@@ -1541,7 +1541,7 @@ Suffix8=
 
 [PrjClassGen]
 CompClassManualEnabled=1
-CompClassManualRoomEnabled=1
+CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=1

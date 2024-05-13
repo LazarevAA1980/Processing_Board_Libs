@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetR98_1 New Net Name=xADC_SCL
+Change Net Name : Old Net Name=NetR99_1 New Net Name=xADC_SDA
+Change Net Name : Old Net Name=NetR103_1 New Net Name=xCAM_SCL
+Change Net Name : Old Net Name=NetR104_1 New Net Name=xCAM_SDA
+Change Net Name : Old Net Name=NetR108_1 New Net Name=xLS_SCL
+Change Net Name : Old Net Name=NetR109_1 New Net Name=xLS_SDA
+Change Net Name : Old Net Name=NetR113_1 New Net Name=xEXT_SCL
+Change Net Name : Old Net Name=NetR114_1 New Net Name=xEXT_SDA

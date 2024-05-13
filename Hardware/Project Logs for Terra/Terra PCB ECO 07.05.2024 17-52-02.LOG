@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xUSER_OUT3 Pin=U19-T21
+Removed Pin From Net: NetName=xUSB_NXP Pin=U19-Y19
+Added Pin To Net: NetName=xUSB_NXP Pin=U19-T21
+Added Pin To Net: NetName=xUSER_OUT3 Pin=U19-W20

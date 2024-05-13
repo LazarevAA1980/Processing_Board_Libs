@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xLASER_LVDS Pin=U19-W17
+Added Pin To Net: NetName=xLASER_LVDS Pin=U19-N13

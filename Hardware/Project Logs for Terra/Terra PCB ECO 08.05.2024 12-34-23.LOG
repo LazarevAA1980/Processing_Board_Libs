@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+1.5V Pin=TP38-1
+Removed Pin From Net: NetName=xPHY_125MHz Pin=U19-L19
+Added Pin To Net: NetName=xPHY_125MHz Pin=U19-J14

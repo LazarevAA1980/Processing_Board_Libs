@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=LEVEL SHIFTER Member=U31
+Removed Member From Class: ClassName=UART_USB Member=U31
+Removed Member From Class: ClassName=Power1.5 Member=U37
+Removed Member From Class: ClassName=Power2.5 Member=U37
+Removed Member From Class: ClassName=Power3.3 Member=U37
+Removed Member From Class: ClassName=LEVEL SHIFTER Member=U38
+Removed Member From Class: ClassName=Power1.0 Member=U38
+Removed Member From Class: ClassName=Power1.8 Member=U38
+Removed Member From Class: ClassName=Power33cam Member=U38
+Removed Member From Class: ClassName=UART_USB Member=U38
+Removed Member From Class: ClassName=Power5.0 Member=U41
+Removed Member From Class: ClassName=SystemCLK Member=U42
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component U24 PCA9306
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component U25 PCA9306
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component U26 PCA9306
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component U27 PCA9306
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component U28 ADN4661
+Added Member To Class: ClassName=UART_USB Member=Component U29 FT232R
+Added Member To Class: ClassName=UART_USB Member=Component U30
+Added Member To Class: ClassName=Power3.3 Member=Component U31 TLV62130RGT
+Added Member To Class: ClassName=Power1.0 Member=Component U32 TPS60500
+Added Member To Class: ClassName=Power1.5 Member=Component U33 TLV62130RGT
+Added Member To Class: ClassName=Power1.8 Member=Component U34 TPS60500
+Added Member To Class: ClassName=Power2.5 Member=Component U35 TLV62130RGT
+Added Member To Class: ClassName=Power33cam Member=Component U36 TLV62130RGT
+Added Member To Class: ClassName=Power5.0 Member=Component U37 TLV62130RGT
+Added Member To Class: ClassName=SystemCLK Member=Component U40 SiT9102 200MHz

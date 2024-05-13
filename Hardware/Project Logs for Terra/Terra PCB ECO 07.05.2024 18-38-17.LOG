@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xCAN_RX Pin=U19-P14
+Removed Pin From Net: NetName=xCAN_TX Pin=U19-R14
+Added Pin To Net: NetName=xCAN_RX Pin=U19-P16
+Added Pin To Net: NetName=xCAN_TX Pin=U19-R17

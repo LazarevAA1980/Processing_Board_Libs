@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FSTROBE Pin=U19-B15
+Removed Pin From Net: NetName=CAM_MCLK Pin=U19-F15
+Added Pin To Net: NetName=CAM_MCLK Pin=U19-A18
+Added Pin To Net: NetName=FSTROBE Pin=U19-A19

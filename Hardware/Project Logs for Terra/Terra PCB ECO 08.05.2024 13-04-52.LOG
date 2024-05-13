@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xPHY_TRSTn Pin=U19-G16
+Removed Pin From Net: NetName=xPHY_125MHz Pin=U19-J14
+Added Pin To Net: NetName=xPHY_125MHz Pin=U19-G16
+Added Pin To Net: NetName=xPHY_TRSTn Pin=U19-L19

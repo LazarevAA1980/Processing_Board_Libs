@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+2.5V Pin=C52-1
+Removed Pin From Net: NetName=+2.5V Pin=C53-1
+Removed Pin From Net: NetName=+2.5V Pin=U9-5
+Removed Pin From Net: NetName=xCAN_STB Pin=U19-J15
+Removed Pin From Net: NetName=xCAN_RX Pin=U19-K16
+Removed Pin From Net: NetName=xCAN_TX Pin=U19-M15
+Added Pin To Net: NetName=+3.3V Pin=C52-1
+Added Pin To Net: NetName=+3.3V Pin=C53-1
+Added Pin To Net: NetName=+3.3V Pin=U9-5
+Added Pin To Net: NetName=xCAN_RX Pin=U19-P14
+Added Pin To Net: NetName=xCAN_TX Pin=U19-R14
+Added Pin To Net: NetName=xCAN_STB Pin=U19-R18

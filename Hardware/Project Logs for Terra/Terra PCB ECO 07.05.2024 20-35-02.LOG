@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xENET_MDC Pin=U19-G18
+Removed Pin From Net: NetName=xENET_MDIO Pin=U19-K19
+Added Pin To Net: NetName=xENET_MDIO Pin=U19-G18
+Added Pin To Net: NetName=xENET_MDC Pin=U19-K19

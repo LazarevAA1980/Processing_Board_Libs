@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=U19D-C15 Old Name=IO_L3N_T0_DQS_16 New Designator =IO_L10P_T1_16 New Name=A13
+Change Pin Designator/Name:  Old Designator=U19D-E13 Old Name=IO_L4P_T0_16 New Designator =IO_L10N_T1_16 New Name=A14
+Change Pin Designator/Name:  Old Designator=U19D-A14 Old Name=IO_L10N_T1_16 New Designator =IO_L4P_T0_16 New Name=E13
+Change Pin Designator/Name:  Old Designator=U19D-A13 Old Name=IO_L10P_T1_16 New Designator =IO_L3N_T0_DQS_16 New Name=C15

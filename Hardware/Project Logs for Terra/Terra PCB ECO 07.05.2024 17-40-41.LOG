@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xBiSS2_DATA Pin=U19-AA21
+Removed Pin From Net: NetName=USB_DATA3 Pin=U19-V18
+Added Pin To Net: NetName=xBiSS2_DATA Pin=U19-AB18
+Added Pin To Net: NetName=USB_DATA3 Pin=U19-Y21

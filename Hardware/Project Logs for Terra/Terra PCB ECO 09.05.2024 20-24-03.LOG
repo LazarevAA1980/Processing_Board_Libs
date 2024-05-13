@@ -1,0 +1,9 @@
+Added Component: Designator=R205(R0402)
+Add component (AddParameter): Name = "ClassName"; Value = "Xilinx_SYS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R205-1
+Added Pin To Net: NetName=SYS_INIT Pin=R205-2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R203 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R205 Res2

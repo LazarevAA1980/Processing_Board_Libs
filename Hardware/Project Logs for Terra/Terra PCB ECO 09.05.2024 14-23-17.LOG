@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xBiSS0_ZPNT Pin=U19-V7
+Removed Pin From Net: NetName=xADC_LDAC Pin=U19-W6
+Added Pin To Net: NetName=xADC_LDAC Pin=U19-V7
+Added Pin To Net: NetName=xBiSS0_ZPNT Pin=U19-W6

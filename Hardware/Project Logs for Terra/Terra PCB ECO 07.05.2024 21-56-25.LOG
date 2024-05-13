@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=xADC1_DP Pin=U19-L19
+Removed Pin From Net: NetName=ADC0_D12 Pin=U19-L20
+Removed Pin From Net: NetName=ADC0_D11 Pin=U19-M22
+Added Pin To Net: NetName=ADC0_D12 Pin=U19-L19
+Added Pin To Net: NetName=ADC0_D11 Pin=U19-L20
+Added Pin To Net: NetName=xADC1_DP Pin=U19-N19

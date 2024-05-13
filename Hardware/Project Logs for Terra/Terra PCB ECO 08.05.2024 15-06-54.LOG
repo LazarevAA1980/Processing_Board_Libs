@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VCCEXT Pin=U23-1
+Added Pin To Net: NetName=LS_EN_POW Pin=U23-2
+Added Pin To Net: NetName=GND Pin=U23-4
+Added Pin To Net: NetName=GND Pin=U23-5
+Added Pin To Net: NetName=xLS_EN_POW Pin=U23-7
+Added Pin To Net: NetName=+3.3V Pin=U23-8
+Added Pin To Net: NetName=USER_OUT Pin=U23-3
+Added Net: Name=USER_OUT
+Added Pin To Net: NetName=xUSER_OUT Pin=U23-6
+Added Net: Name=xUSER_OUT

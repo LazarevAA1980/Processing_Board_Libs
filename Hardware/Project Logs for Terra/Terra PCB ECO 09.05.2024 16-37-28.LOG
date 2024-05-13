@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=LED1 Pin=U19-V9
+Added Member To Class: ClassName=DDR_ADDR Member=Wire LED1

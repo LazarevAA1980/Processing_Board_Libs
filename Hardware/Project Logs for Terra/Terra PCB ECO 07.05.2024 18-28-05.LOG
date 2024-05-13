@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=+3.3V Pin=U19-AA17
+Removed Pin From Net: NetName=+3.3V Pin=U19-AB14
+Removed Pin From Net: NetName=+2.5V Pin=U19-M14
+Removed Pin From Net: NetName=+2.5V Pin=U19-P18
+Removed Pin From Net: NetName=+2.5V Pin=U19-R15
+Removed Pin From Net: NetName=+2.5V Pin=U19-T22
+Removed Pin From Net: NetName=+2.5V Pin=U19-U19
+Removed Pin From Net: NetName=+3.3V Pin=U19-V16
+Removed Pin From Net: NetName=+3.3V Pin=U19-W13
+Removed Pin From Net: NetName=+3.3V Pin=U19-Y10
+Removed Pin From Net: NetName=+2.5V Pin=U19-Y20
+Change component parameters: Designator = "U19" ("U19"); Footprint = "FBG484"; UniqueID = "\GJHROMKM\KYQEYPUS" ("\GJHROMKM\KYQEYPUS")
+Change component parameters (AddParameter): Name = "BANK_PWR"; Value = "+2.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Block RAM Blocks (18Kb)"; Value = "730"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Block RAM Blocks (36Kb)"; Value = "365"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Block RAM Blocks (Max Kb)"; Value = "13140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CLBs (Max Distributed RAM Kb)"; Value = "2888"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CLBs (Slices)"; Value = "33650"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Clock Mgmt Tiles (CMTs)"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-034"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "DC and Switching Characteristics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Package File"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.xilinx.com/support/packagefiles/a7packages/xc7a200tfbg484pkg.txt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "Packaging and Pinout"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "v1.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DSP48E1 Slices"; Value = "740"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Generic Part Number"; Value = "XC7A200T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Cells"; Value = "215360"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Xilinx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max User I/O"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Flip-Chip Lidless BGA, Body 23 x 23 mm, 1.0 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "FBG484"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev 1.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed Grade"; Value = "-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XC7A200T-2FBG484I"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2.5V Pin=U19-AA17
+Added Pin To Net: NetName=+2.5V Pin=U19-AB14
+Added Pin To Net: NetName=+3.3V Pin=U19-M14
+Added Pin To Net: NetName=+3.3V Pin=U19-P18
+Added Pin To Net: NetName=+3.3V Pin=U19-R15
+Added Pin To Net: NetName=+3.3V Pin=U19-T22
+Added Pin To Net: NetName=+3.3V Pin=U19-U19
+Added Pin To Net: NetName=+2.5V Pin=U19-V16
+Added Pin To Net: NetName=+2.5V Pin=U19-W13
+Added Pin To Net: NetName=+2.5V Pin=U19-Y10
+Added Pin To Net: NetName=+3.3V Pin=U19-Y20

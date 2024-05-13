@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LS_EN_POW Pin=U23-2
+Removed Pin From Net: NetName=USER_OUT Pin=U23-3
+Removed Pin From Net: NetName=xUSER_OUT Pin=U23-6
+Removed Pin From Net: NetName=xLS_EN_POW Pin=U23-7
+Added Pin To Net: NetName=USER_OUT Pin=U23-2
+Added Pin To Net: NetName=LS_EN_POW Pin=U23-3
+Added Pin To Net: NetName=xLS_EN_POW Pin=U23-6
+Added Pin To Net: NetName=xUSER_OUT Pin=U23-7

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xEXT_SCL Pin=U19-AA8
+Added Pin To Net: NetName=xEXT_SCL Pin=U19-W7

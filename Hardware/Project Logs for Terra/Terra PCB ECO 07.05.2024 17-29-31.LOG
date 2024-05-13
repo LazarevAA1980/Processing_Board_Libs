@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=ADC0_D2 Pin=U19-G20
+Added Pin To Net: NetName=ADC0_DCO Pin=U19-H19
+Added Pin To Net: NetName=ADC0_D4 Pin=U19-H20
+Added Pin To Net: NetName=ADC0_D11 Pin=U19-H22
+Added Pin To Net: NetName=xENET_MDIO Pin=U19-J21
+Added Pin To Net: NetName=ADC0_D9 Pin=U19-J22
+Added Pin To Net: NetName=ADC0_D13 Pin=U19-K21
+Added Pin To Net: NetName=ADC0_D15 Pin=U19-K22
+Added Pin To Net: NetName=ADC0_CLK_P Pin=U19-M20
+Added Pin To Net: NetName=ADC0_D5 Pin=U19-M21
+Added Pin To Net: NetName=ADC0_CLK_N Pin=U19-N20
+Added Pin To Net: NetName=xADC0_CSn Pin=U19-N22

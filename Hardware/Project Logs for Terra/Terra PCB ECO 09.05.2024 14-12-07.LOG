@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=xADC_INT Pin=U19-P14
+Removed Pin From Net: NetName=xADC_LDAC Pin=U19-P20
+Removed Pin From Net: NetName=xADC_HV_EN Pin=U19-P22
+Removed Pin From Net: NetName=xBiSS0_ZPNT Pin=U19-Y19
+Removed Pin From Net: NetName=+3.3V Pin=U20-1
+Removed Pin From Net: NetName=+3.3V Pin=U21-8
+Added Pin To Net: NetName=xADC_HV_EN Pin=U19-U7
+Added Pin To Net: NetName=xBiSS0_ZPNT Pin=U19-V8
+Added Pin To Net: NetName=xADC_INT Pin=U19-V9
+Added Pin To Net: NetName=xADC_LDAC Pin=U19-W9
+Added Pin To Net: NetName=+1.5V Pin=U20-1
+Added Pin To Net: NetName=+1.5V Pin=U21-8

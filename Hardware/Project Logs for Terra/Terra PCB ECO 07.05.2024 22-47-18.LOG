@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PHY_RXD1 Pin=U19-H17
+Added Pin To Net: NetName=PHY_RXD1 Pin=U19-K17

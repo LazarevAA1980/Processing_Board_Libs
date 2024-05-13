@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ENET_RX_P Pin=U19-H14
+Removed Pin From Net: NetName=xPHY_COL Pin=U19-H15
+Removed Pin From Net: NetName=ADC0_D9 Pin=U19-J15
+Removed Pin From Net: NetName=ENET_RX_N Pin=U19-J16
+Added Pin To Net: NetName=xPHY_COL Pin=U19-H14
+Added Pin To Net: NetName=ENET_RX_P Pin=U19-H15
+Added Pin To Net: NetName=ADC0_D9 Pin=U19-J14
+Added Pin To Net: NetName=ENET_RX_N Pin=U19-J15
+Added Pin To Net: NetName=ENET_TX_N Pin=U19-J16

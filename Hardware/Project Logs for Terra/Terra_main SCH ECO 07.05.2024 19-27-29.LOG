@@ -1,0 +1,2 @@
+Change Pin Designator/Name:  Old Designator=U19B-N17 Old Name=IO_L21P_T3_DQS_14 New Designator =IO_L22P_T3_A05_D21_14 New Name=P15
+Change Pin Designator/Name:  Old Designator=U19B-P15 Old Name=IO_L22P_T3_A05_D21_14 New Designator =IO_L21P_T3_DQS_14 New Name=N17
