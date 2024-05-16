@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xLS_EN_POW Pin=U19-AB20
+Removed Pin From Net: NetName=xUSER_OUT Pin=U19-V19
+Added Pin To Net: NetName=xUSER_OUT Pin=U19-AB20
+Added Pin To Net: NetName=xLS_EN_POW Pin=U19-V19

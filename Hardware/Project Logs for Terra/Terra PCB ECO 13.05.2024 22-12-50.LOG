@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xENET_MDIO Pin=U19-L18
+Removed Pin From Net: NetName=xPHY_TRSTn Pin=U19-L19
+Added Pin To Net: NetName=xENET_MDIO Pin=U19-L19
+Added Pin To Net: NetName=xPHY_TRSTn Pin=U19-N22

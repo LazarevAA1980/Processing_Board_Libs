@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xPHY_TRSTn Pin=U19-N22
+Added Pin To Net: NetName=xPHY_TRSTn Pin=U19-L18

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xUSER_OUT Pin=U19-Y19
+Added Pin To Net: NetName=xUSER_OUT Pin=U19-V19

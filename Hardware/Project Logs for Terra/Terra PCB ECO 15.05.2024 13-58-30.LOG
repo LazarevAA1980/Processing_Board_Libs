@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=HL1-2
+Removed Member From Class: ClassName=USB-2.0 Member=HL1
+Removed Member From Class: ClassName=USB-2.0 Member=L5
+Removed Member From Class: ClassName=USB-2.0 Member=R64
+Change Component Designator: OldDesignator=   NewDesignator=U8
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR61_2 Pin=U8-6
+Added Net: Name=NetR61_2
+Added Member To Class: ClassName=USB-2.0 Member=Component C48 Cap
+Added Member To Class: ClassName=USB-2.0 Member=Component C51 Cap

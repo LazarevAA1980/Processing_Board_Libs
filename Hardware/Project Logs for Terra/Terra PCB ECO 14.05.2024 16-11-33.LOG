@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X3 Old Footprint=DS1031-09-2X10 New Footprint=DS1026-13-2x10
+Change Component Description : Designator=X3 Old Description=Ўтыри 2x10  1.27 мм на плату New Description=Ўтыри 2x10  2.0 мм на плату
+Change component parameters: Designator = "X3" ("X3"); Footprint = "DS1031-09-2X10"; UniqueID = "\RLMFCTMY" ("\RLMFCTMY")
+Change component parameters (AddParameter): Name = "Value"; Value = "DS1026-13-2x10"; VariantName = "[No Variations]"

@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=PWR_PIO Pin=JP1-2
+Added Pin To Net: NetName=PWR_PIO Pin=R100-2
+Added Pin To Net: NetName=PWR_PIO Pin=R101-2
+Added Pin To Net: NetName=PWR_PIO Pin=R102-2
+Added Pin To Net: NetName=??V Pin=R105-2
+Added Pin To Net: NetName=??V Pin=R106-2
+Added Pin To Net: NetName=??V Pin=R107-2
+Added Pin To Net: NetName=PWR_PIO Pin=U20-8
+Added Pin To Net: NetName=PWR_PIO Pin=U21-1
+Added Pin To Net: NetName=PWR_PIO Pin=U22-1
+Added Pin To Net: NetName=PWR_PIO Pin=U23-1
+Change Net Name : Old Net Name=??V New Net Name=VIO_CAM
+Change Net Name : Old Net Name=PWR_PIO New Net Name=VIO_EXT
+Added Member To Class: ClassName=CAN BUS Member=Component U9 MCP2542WFD

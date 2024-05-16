@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xLS_DISABLE Pin=U19-P21
+Added Pin To Net: NetName=xLS_DISABLE Pin=U19-P22

@@ -1,0 +1,208 @@
+Removed Member From Class: ClassName=UART_USB Member=C103
+Removed Member From Class: ClassName=Xilinx PWR Member=C103
+Removed Member From Class: ClassName=Power3.3 Member=C109
+Removed Member From Class: ClassName=UART_USB Member=C109
+Removed Member From Class: ClassName=Xilinx PWR Member=C109
+Removed Member From Class: ClassName=Power1.5 Member=C112
+Removed Member From Class: ClassName=Power3.3 Member=C112
+Removed Member From Class: ClassName=UART_USB Member=C112
+Removed Member From Class: ClassName=Power1.0 Member=C118
+Removed Member From Class: ClassName=Power3.3 Member=C118
+Removed Member From Class: ClassName=UART_USB Member=C118
+Removed Member From Class: ClassName=Xilinx PWR Member=C118
+Removed Member From Class: ClassName=Power1.0 Member=C127
+Removed Member From Class: ClassName=Power1.5 Member=C127
+Removed Member From Class: ClassName=Power3.3 Member=C127
+Removed Member From Class: ClassName=Power1.0 Member=C129
+Removed Member From Class: ClassName=Power1.5 Member=C129
+Removed Member From Class: ClassName=Power1.8 Member=C129
+Removed Member From Class: ClassName=Power1.8 Member=C136
+Removed Member From Class: ClassName=Power2.5 Member=C136
+Removed Member From Class: ClassName=Power1.8 Member=C138
+Removed Member From Class: ClassName=Power2.5 Member=C138
+Removed Member From Class: ClassName=Power33cam Member=C138
+Removed Member From Class: ClassName=Power5.0 Member=C156
+Removed Member From Class: ClassName=SystemCLK Member=C156
+Removed Member From Class: ClassName=Power5.0 Member=C158
+Removed Member From Class: ClassName=SystemCLK Member=C158
+Removed Member From Class: ClassName=Power2.5 Member=C171
+Removed Member From Class: ClassName=Power5.0 Member=C171
+Removed Member From Class: ClassName=Power33cam Member=C171
+Removed Member From Class: ClassName=SystemCLK Member=C171
+Removed Member From Class: ClassName=Xilinx DDR Member=C171
+Removed Member From Class: ClassName=Power5.0 Member=C173
+Removed Member From Class: ClassName=Xilinx DDR Member=C173
+Removed Member From Class: ClassName=UART_USB Member=HL4
+Removed Member From Class: ClassName=Power1.0 Member=L7
+Removed Member From Class: ClassName=Power2.5 Member=L10
+Removed Member From Class: ClassName=SystemCLK Member=L13
+Removed Member From Class: ClassName=CAN BUS Member=R65
+Removed Member From Class: ClassName=CAM_POWER Member=R72
+Removed Member From Class: ClassName=LEVEL SHIFTER Member=R96
+Removed Member From Class: ClassName=Power1.5 Member=R138
+Removed Member From Class: ClassName=Power2.5 Member=R144
+Removed Member From Class: ClassName=Power5.0 Member=R155
+Removed Member From Class: ClassName=SystemCLK Member=R185
+Removed Member From Class: ClassName=SystemCLK Member=R189
+Removed Member From Class: ClassName=Xilinx_SYS Member=R198
+Added Pin To Net: NetName=GND Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-2
+Added Member To Class: ClassName=Xilinx PWR Member=Component C93 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C94 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C95 Cap
+Added Member To Class: ClassName=Power1.5 Member=Component C96 Cap
+Added Member To Class: ClassName=UART_USB Member=Component C97 Cap
+Added Member To Class: ClassName=UART_USB Member=Component C98 Cap
+Added Member To Class: ClassName=UART_USB Member=Component C99 Cap
+Added Member To Class: ClassName=UART_USB Member=Component C100 Cap
+Added Member To Class: ClassName=UART_USB Member=Component C101 Cap
+Added Member To Class: ClassName=UART_USB Member=Component C102 Cap
+Added Member To Class: ClassName=Power3.3 Member=Component C104 Cap
+Added Member To Class: ClassName=Power3.3 Member=Component C105 Cap
+Added Member To Class: ClassName=Power3.3 Member=Component C106 Cap
+Added Member To Class: ClassName=Power3.3 Member=Component C107 Cap
+Added Member To Class: ClassName=Power3.3 Member=Component C108 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C110 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C111 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C113 Cap
+Added Member To Class: ClassName=Power1.0 Member=Component C114 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C115 Cap
+Added Member To Class: ClassName=Power1.5 Member=Component C116 Cap
+Added Member To Class: ClassName=Power1.5 Member=Component C117 Cap
+Added Member To Class: ClassName=Power1.5 Member=Component C119 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C121 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C123 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C124 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C125 Cap
+Added Member To Class: ClassName=Power1.8 Member=Component C126 Cap
+Added Member To Class: ClassName=Power2.5 Member=Component C128 Cap
+Added Member To Class: ClassName=Power2.5 Member=Component C130 Cap
+Added Member To Class: ClassName=Power2.5 Member=Component C131 Cap
+Added Member To Class: ClassName=Power2.5 Member=Component C132 Cap
+Added Member To Class: ClassName=Power33cam Member=Component C133 Cap
+Added Member To Class: ClassName=Power33cam Member=Component C134 Cap
+Added Member To Class: ClassName=Power33cam Member=Component C135 Cap
+Added Member To Class: ClassName=Power5.0 Member=Component C139 Cap
+Added Member To Class: ClassName=Power5.0 Member=Component C140 Cap
+Added Member To Class: ClassName=Power5.0 Member=Component C141 Cap
+Added Member To Class: ClassName=Power5.0 Member=Component C142 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C143 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C144 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C145 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C146 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C147 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C148 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component C149 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C150 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component C151 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C152 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component C153 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C154 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C155 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C157 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C159 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C160 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C161 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C162 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C163 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C164 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C165 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C166 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C167 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C168 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C169 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C170 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C172 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C174 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C175 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C176 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C177 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C178 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C179 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C181 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C183 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C184 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C186 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C188 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C189 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C190 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C191 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C192 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C193 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C194 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C195 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C196 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C197 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C198 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C199 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C201 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C203 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C204 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C205 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C206 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C207 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C208 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C209 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C210 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C211 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C212 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C213 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C214 Cap
+Added Member To Class: ClassName=Ethernet Member=Component HL3
+Added Member To Class: ClassName=UART_USB Member=Component HL5
+Added Member To Class: ClassName=UART_USB Member=Component HL7
+Added Member To Class: ClassName=Power1.0 Member=Component L8 3.3uH
+Added Member To Class: ClassName=Power2.5 Member=Component L11 2.2uH
+Added Member To Class: ClassName=SystemCLK Member=Component L14 742792780
+Added Member To Class: ClassName=CAN BUS Member=Component R66 Res2
+Added Member To Class: ClassName=CAN BUS Member=Component R68 Res2
+Added Member To Class: ClassName=BiSS Member=Component R71 Res2
+Added Member To Class: ClassName=CAM_POWER Member=Component R73 Res2
+Added Member To Class: ClassName=CAM_POWER Member=Component R75 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R78 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R80 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R83 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R85 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R87 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R89 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R91 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R93 Res2
+Added Member To Class: ClassName=Ethernet Member=Component R95 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R97 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R99 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R101 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R104 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R106 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R108 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R110 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R112 Res2
+Added Member To Class: ClassName=LEVEL SHIFTER Member=Component R115 Res2
+Added Member To Class: ClassName=UART_USB Member=Component R118 Res2
+Added Member To Class: ClassName=UART_USB Member=Component R120 Res2
+Added Member To Class: ClassName=UART_USB Member=Component R122 Res2
+Added Member To Class: ClassName=Power3.3 Member=Component R125 Res2
+Added Member To Class: ClassName=Power1.0 Member=Component R134 Res2
+Added Member To Class: ClassName=Power1.5 Member=Component R136 Res2
+Added Member To Class: ClassName=Power1.5 Member=Component R139 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R141 Res2
+Added Member To Class: ClassName=Power1.8 Member=Component R143 Res2
+Added Member To Class: ClassName=Power2.5 Member=Component R145 Res2
+Added Member To Class: ClassName=Power2.5 Member=Component R148 Res2
+Added Member To Class: ClassName=Power33cam Member=Component R154 Res2
+Added Member To Class: ClassName=Power5.0 Member=Component R156 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R162 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R165 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R169 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R172 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R175 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R178 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R180 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R182 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R186 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R190 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R196 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R199 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R201 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R204 Res2

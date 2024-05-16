@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xUSB_UART_RX Pin=U19-AB20
+Removed Pin From Net: NetName=xUSB_UART_TX Pin=U19-V17
+Added Pin To Net: NetName=xUSB_UART_RX Pin=U19-AA19
+Added Pin To Net: NetName=xUSB_UART_TX Pin=U19-AA20
