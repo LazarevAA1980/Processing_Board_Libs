@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=xADC_SDA Pin=TP24-1
+Removed Pin From Net: NetName=xADC1_SDIO Pin=U20-AA14
+Removed Pin From Net: NetName=xADC_SDA Pin=U20-AA19
+Removed Pin From Net: NetName=ADC0_D3 Pin=U20-U15
+Removed Pin From Net: NetName=xADC_SDA Pin=U30-30
+Added Pin To Net: NetName=ADC0_D3 Pin=U20-AA14
+Added Pin To Net: NetName=xADC1_SDIO Pin=U20-U15
+Added Pin To Net: NetName=xUSB_UART_RX Pin=TP24-1
+Added Pin To Net: NetName=xUSB_UART_RX Pin=U20-AA19
+Added Pin To Net: NetName=xUSB_UART_RX Pin=U30-30
+Added Net: Name=xUSB_UART_RX
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xUSB_UART_RX

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xUSB_RES Pin=U20-T21
+Added Pin To Net: NetName=xUSB_RES Pin=U20-P20

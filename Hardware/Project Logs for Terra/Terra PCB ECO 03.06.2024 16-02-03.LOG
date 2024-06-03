@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=PLIS_OTHER2 Member=xUSB_UART_RX
+Added Pin To Net: NetName=xADC_SDA Pin=TP24-1
+Added Pin To Net: NetName=xADC_SDA Pin=U20-AA19
+Added Pin To Net: NetName=xADC_SDA Pin=U30-30
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xADC_SCL
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xADC_SDA
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xCAM_SCL
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xCAM_SDA
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xEXT_SCL
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xEXT_SDA
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xLS_SCL
+Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire xLS_SDA

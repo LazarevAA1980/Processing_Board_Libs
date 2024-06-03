@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xADC_HV_EN Pin=U20-U7
+Removed Pin From Net: NetName=xBiSS0_ZPNT Pin=U20-W6
+Added Pin To Net: NetName=xBiSS0_ZPNT Pin=U20-U7
+Added Pin To Net: NetName=xADC_HV_EN Pin=U20-W6

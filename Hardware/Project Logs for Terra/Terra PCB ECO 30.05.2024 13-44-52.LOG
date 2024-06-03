@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=DDR3_D1 Pin=U20-G1
+Removed Pin From Net: NetName=DDR3_D3 Pin=U20-J5
+Added Pin To Net: NetName=DDR3_D3 Pin=U20-G1
+Added Pin To Net: NetName=DDR3_D1 Pin=U20-J5
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_BA0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_BA1
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_BA2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_CAS
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_CKE0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_CLK0_N
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_CLK0_P
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_ODT
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_RAS
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_RESET
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_S0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR3_WE
+Added Member To Class: ClassName=DDR_ADDR Member=Wire SYS_CLK_N
+Added Member To Class: ClassName=DDR_ADDR Member=Wire SYS_CLK_P
