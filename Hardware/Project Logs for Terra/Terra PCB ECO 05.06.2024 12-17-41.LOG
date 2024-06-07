@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=S_IN_N Pin=U20-G13
+Removed Pin From Net: NetName=S_IN_P Pin=U20-H13
+Removed Pin From Net: NetName=S_OUT_N Pin=U20-H15
+Removed Pin From Net: NetName=S_OUT_P Pin=U20-J15
+Removed Pin From Net: NetName=S_CLK_P Pin=U20-J20
+Removed Pin From Net: NetName=S_CLK_N Pin=U20-J21

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xBiSS1_CLK Pin=U20-N17
+Removed Pin From Net: NetName=xBiSS1_DATA Pin=U20-P15
+Added Pin To Net: NetName=xBiSS1_DATA Pin=U20-N17
+Added Pin To Net: NetName=xBiSS1_CLK Pin=U20-P15

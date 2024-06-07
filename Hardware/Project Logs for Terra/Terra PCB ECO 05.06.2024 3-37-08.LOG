@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ADC0_D13 Pin=U20-M16
+Removed Pin From Net: NetName=ADC0_D11 Pin=U20-V14
+Added Pin To Net: NetName=ADC0_D11 Pin=U20-M16
+Added Pin To Net: NetName=ADC0_D13 Pin=U20-V14
+Added Member To Class: ClassName=UART_USB Member=Component TP25

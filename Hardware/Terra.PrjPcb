@@ -417,6 +417,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=..\DOC.OUT\109-ЛС-ТЕРРА.step
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for DataAcquisition\Design Rule Check - Terra.html
 DItemRevisionGUID=
 

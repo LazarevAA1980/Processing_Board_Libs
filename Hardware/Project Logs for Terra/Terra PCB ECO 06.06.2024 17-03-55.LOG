@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=xPHY_COL Pin=U20-M13
+Added Pin To Net: NetName=xPHY_COL Pin=U20-L19

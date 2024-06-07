@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PHY_RXD3 Pin=U20-G17
+Removed Pin From Net: NetName=xPHY_125MHz Pin=U20-G18
+Added Pin To Net: NetName=xPHY_125MHz Pin=U20-G17
+Added Pin To Net: NetName=PHY_RXD3 Pin=U20-G18

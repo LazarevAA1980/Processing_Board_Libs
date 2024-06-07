@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=xENET_RESn Pin=U20-G17
+Removed Pin From Net: NetName=PHY_RXD2 Pin=U20-H17
+Added Pin To Net: NetName=PHY_RXD2 Pin=U20-G17
+Added Pin To Net: NetName=xENET_RESn Pin=U20-H17

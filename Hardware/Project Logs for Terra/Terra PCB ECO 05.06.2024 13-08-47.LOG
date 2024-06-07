@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PHY_RXD0 Pin=U20-G18
+Removed Pin From Net: NetName=PHY_TXC Pin=U20-H17
+Removed Pin From Net: NetName=PHY_TXD0 Pin=U20-H18
+Removed Pin From Net: NetName=PHY_RXD2 Pin=U20-H19
+Removed Pin From Net: NetName=PHY_TXD3 Pin=U20-H20
+Removed Pin From Net: NetName=PHY_TXD2 Pin=U20-H22
+Removed Pin From Net: NetName=PHY_RXD1 Pin=U20-J14
+Removed Pin From Net: NetName=PHY_TXD1 Pin=U20-J22
+Removed Pin From Net: NetName=PHY_TX_EN Pin=U20-K21
+Removed Pin From Net: NetName=PHY_RXC Pin=U20-K22
+Removed Pin From Net: NetName=PHY_RX_DV Pin=U20-L21
+Removed Pin From Net: NetName=PHY_RXD3 Pin=U20-N22
+Added Pin To Net: NetName=S_IN_N Pin=U20-G13
+Added Pin To Net: NetName=S_IN_P Pin=U20-H13
+Added Pin To Net: NetName=S_OUT_N Pin=U20-H15
+Added Pin To Net: NetName=S_OUT_P Pin=U20-J15
+Added Pin To Net: NetName=S_CLK_P Pin=U20-J20
+Added Pin To Net: NetName=S_CLK_N Pin=U20-J21
+Added Member To Class: ClassName=Ethernet Member=Component C94 Cap
+Added Member To Class: ClassName=Ethernet Member=Component C95 Cap
+Added Member To Class: ClassName=Ethernet Member=Component L5 742792780

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=xPHY_CRS Pin=U20-H14
+Removed Pin From Net: NetName=S_OUT_N Pin=U20-H15
+Removed Pin From Net: NetName=S_OUT_P Pin=U20-J15
+Added Pin To Net: NetName=S_OUT_N Pin=U20-H14
+Added Pin To Net: NetName=S_OUT_P Pin=U20-J14
+Added Pin To Net: NetName=xPHY_CRS Pin=U20-M18
