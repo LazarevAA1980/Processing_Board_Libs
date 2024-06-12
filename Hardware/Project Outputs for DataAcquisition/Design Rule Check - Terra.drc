@@ -1,10 +1,11 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\TERRA\Hardware\Terra.PcbDoc
-Date     : 30.05.2024
-Time     : 14:48:32
+Date     : 20.04.2024
+Time     : 8:16:39
 
 WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: GND_L03_P000
+   Polygon named: DDR_ROUTE
+   Polygon named: AGND_L03_P000
 
 
 Violations Detected : 0

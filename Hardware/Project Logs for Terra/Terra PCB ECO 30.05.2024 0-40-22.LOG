@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=LED1 Pin=U20-U6
-Removed Pin From Net: NetName=xBiSS0_ZPNT Pin=U20-U7
-Removed Member From Class: ClassName=DDR_ADDR Member=LED1
-Added Pin To Net: NetName=xBiSS0_ZPNT Pin=U20-U6
-Added Pin To Net: NetName=LED1 Pin=U20-U7

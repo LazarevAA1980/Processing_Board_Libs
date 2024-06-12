@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=DDR3_CAS Pin=U20-W2
-Removed Member From Class: ClassName=DDR_DATA Member=DDR3_D17
-Added Pin To Net: NetName=DDR3_CAS Pin=U20-U1
-Added Pin To Net: NetName=VTTREF Pin=U40-F7
-Change Net Name : Old Net Name=VTTREF New Net Name=DDR3_D17

@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=PLIS_OTHER2 Member=xADC1_RESn
-Change Net Name : Old Net Name=xADC0_CSn New Net Name=ADC_CSn
-Change Net Name : Old Net Name=xADC1_PWR New Net Name=ADC_PWR
-Change Net Name : Old Net Name=xADC1_RESn New Net Name=ADC_RESn
-Change Net Name : Old Net Name=xADC1_SDIO New Net Name=ADC_SDIO
-Added Member To Class: ClassName=ADC Member=Wire ADC_PWR
-Added Member To Class: ClassName=ADC Member=Wire ADC_RESn
-Added Member To Class: ClassName=PLIS_OTHER2 Member=Wire ADC_RESn
-Added Member To Class: ClassName=ADC Member=Wire ADC_SDIO

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=S_OUT_N Pin=U20-H15
-Removed Pin From Net: NetName=S_OUT_P Pin=U20-J15
-Removed Pin From Net: NetName=xENET_INTn Pin=U20-J19
-Added Pin To Net: NetName=S_OUT_N Pin=U20-H19
-Added Pin To Net: NetName=S_OUT_P Pin=U20-J19
-Added Pin To Net: NetName=xENET_INTn Pin=U20-N20

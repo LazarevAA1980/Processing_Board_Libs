@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PHY_TX_EN Pin=U20-K21
-Removed Pin From Net: NetName=PHY_TXD2 Pin=U20-L20
-Added Pin To Net: NetName=PHY_TXD2 Pin=U20-K21
-Added Pin To Net: NetName=PHY_TX_EN Pin=U20-L20

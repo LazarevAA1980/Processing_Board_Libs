@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=xPHY_CRS Pin=U20-G18
-Removed Pin From Net: NetName=xPHY_125MHz Pin=U20-H19
-Added Pin To Net: NetName=xPHY_125MHz Pin=U20-G18
-Added Pin To Net: NetName=xPHY_CRS Pin=U20-H19
