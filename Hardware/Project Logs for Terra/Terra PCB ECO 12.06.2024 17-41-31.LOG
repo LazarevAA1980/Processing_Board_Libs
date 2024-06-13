@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+1.2V Pin=C183-1
+Removed Pin From Net: NetName=GND Pin=C183-2
+Removed Member From Class: ClassName=Xilinx PWR Member=C183
+Added Member To Class: ClassName=Xilinx PWR Member=Component C186 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C188 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C192 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C193 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C194 Cap

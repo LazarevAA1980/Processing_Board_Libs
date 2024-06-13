@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=+1.2V Pin=C186-1
+Removed Pin From Net: NetName=+1.2V Pin=C187-1
+Removed Pin From Net: NetName=+1.2V Pin=C188-1
+Removed Pin From Net: NetName=+1.2V Pin=C193-1
+Removed Member From Class: ClassName=Xilinx DDR Member=C170
+Removed Member From Class: ClassName=SystemCLK Member=C183
+Removed Member From Class: ClassName=SystemCLK Member=C185
+Removed Member From Class: ClassName=SystemCLK Member=C204
+Removed Member From Class: ClassName=Xilinx DDR Member=C204
+Removed Member From Class: ClassName=Xilinx DDR Member=R189
+Removed Member From Class: ClassName=SystemCLK Member=R194
+Removed Member From Class: ClassName=Xilinx DDR Member=R198
+Removed Member From Class: ClassName=SystemCLK Member=R201
+Removed Member From Class: ClassName=SystemCLK Member=U44
+Removed Member From Class: ClassName=Xilinx DDR Member=U44
+Added Pin To Net: NetName=+1.5V Pin=C186-1
+Added Pin To Net: NetName=+1.5V Pin=C187-1
+Added Pin To Net: NetName=+1.5V Pin=C188-1
+Added Pin To Net: NetName=+1.5V Pin=C193-1
+Added Member To Class: ClassName=SystemCLK Member=Component C157 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C159 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C160 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C161 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component C162 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C163 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component C164 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C165 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component C166 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C167 Cap
+Added Member To Class: ClassName=SystemCLK Member=Component C168 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C169 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C171 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C172 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C173 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C174 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C175 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C176 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C177 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C178 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C179 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C180 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C181 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C182 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C184 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C186 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C187 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C188 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C189 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C190 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C191 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C192 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C193 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C194 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C195 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C196 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C197 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C198 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C199 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C200 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C201 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C203 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C205 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C206 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C207 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C208 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C209 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C210 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C211 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C212 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C213 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C214 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C215 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C216 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C218 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C220 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C221 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C222 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C223 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C224 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C225 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C226 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C227 Cap
+Added Member To Class: ClassName=Xilinx DDR Member=Component R165 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R167 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R168 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R169 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R171 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R172 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R173 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R175 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R177 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R179 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R180 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R181 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R183 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R185 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R186 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R187 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R188 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R190 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R191 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R192 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R193 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R195 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R196 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R197 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component R199 Res2
+Added Member To Class: ClassName=Xilinx DDR Member=Component R200 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R202 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R203 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R204 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R205 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R206 Res2
+Added Member To Class: ClassName=Xilinx_SYS Member=Component R207 Res2
+Added Member To Class: ClassName=SystemCLK Member=Component U42 SiT9102 200MHz
+Added Member To Class: ClassName=Xilinx DDR Member=Component U43 TPS51200

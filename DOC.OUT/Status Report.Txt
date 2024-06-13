@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:10:09 On 13.06.2024
+
+Output: Export STEP
+Type  : ExportSTEP
 From  : PCB Document [Terra.PcbDoc]
-   Generated File[Terra-Plated.TXT]
-   Generated File[Terra.LDP]
-   Generated File[Terra.DRR]
+   Generated File[109-À—-“≈––¿.step]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:49:18 On 12.06.2024
+Finished Output Generation At 17:10:32 On 13.06.2024

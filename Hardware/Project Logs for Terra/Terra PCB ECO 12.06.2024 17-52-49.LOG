@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+1.0V Pin=C199-1
+Removed Pin From Net: NetName=GND Pin=C199-2
+Removed Pin From Net: NetName=+3.3V Pin=C210-1
+Removed Pin From Net: NetName=GND Pin=C210-2

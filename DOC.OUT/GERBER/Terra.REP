@@ -2,319 +2,6 @@
 FileName = Terra.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : Terra.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D17
-    D18
-    D19
-    D20
-    D27
-    D42
-    D43
-    D45
-    D49
-    D50
-    D60
-    D64
-    D65
-    D70
-    D75
-    D78
-    D79
-    D85
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-*************************************************************
-
-*************************************************************
-Generating : Int3(PWR)
-      File : Terra.G3
-
-    Adding Layer      : Int3(PWR)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D42
-    D45
-    D64
-    D65
-    D70
-    D75
-    D79
-    D92
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Terra.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D14
-    D15
-    D124
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Terra.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D17
-    D18
-    D19
-    D20
-    D21
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D45
-    D48
-    D49
-    D50
-    D51
-    D52
-    D54
-    D55
-    D56
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D70
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-*************************************************************
-
-*************************************************************
-Generating : Int2 (GND)
-      File : Terra.G2
-
-    Adding Layer      : Int2 (GND)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D45
-    D64
-    D65
-    D70
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-*************************************************************
-
-*************************************************************
-Generating : Int1 (Sign)
-      File : Terra.G1
-
-    Adding Layer      : Int1 (Sign)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D42
-    D45
-    D64
-    D65
-    D70
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D92
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Terra.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Int4(Sign)
-      File : Terra.G4
-
-    Adding Layer      : Int4(Sign)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D42
-    D45
-    D64
-    D65
-    D70
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D92
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Terra.GBS
 
@@ -326,17 +13,17 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D17
     D18
-    D19
     D20
+    D21
+    D22
+    D24
+    D25
     D26
-    D27
-    D43
-    D45
+    D29
+    D31
+    D36
     D49
-    D50
-    D60
     D64
     D65
     D66
@@ -439,6 +126,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : Terra.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D124
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : Terra.GKO
 
@@ -447,5 +150,305 @@ Generating : Keep-Out Layer
 
 Used DCodes :
     D124
+*************************************************************
+
+*************************************************************
+Generating : Int1 (Sign)
+      File : Terra.G1
+
+    Adding Layer      : Int1 (Sign)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D17
+    D49
+    D64
+    D65
+    D70
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D93
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Terra.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D17
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D52
+    D53
+    D54
+    D56
+    D57
+    D58
+    D61
+    D62
+    D63
+    D64
+    D65
+    D70
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Int4(Sign)
+      File : Terra.G4
+
+    Adding Layer      : Int4(Sign)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D17
+    D49
+    D64
+    D65
+    D70
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D93
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Int2 (GND)
+      File : Terra.G2
+
+    Adding Layer      : Int2 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D49
+    D64
+    D65
+    D70
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Int3(PWR)
+      File : Terra.G3
+
+    Adding Layer      : Int3(PWR)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D17
+    D49
+    D64
+    D65
+    D70
+    D76
+    D78
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Terra.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Terra.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D17
+    D18
+    D20
+    D21
+    D22
+    D24
+    D25
+    D26
+    D29
+    D31
+    D49
+    D64
+    D65
+    D70
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D86
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
 *************************************************************
 
