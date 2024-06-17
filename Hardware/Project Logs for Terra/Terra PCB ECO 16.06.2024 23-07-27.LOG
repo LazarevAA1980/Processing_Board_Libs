@@ -1,0 +1,37 @@
+Change Net Name : Old Net Name=xENET_INTn New Net Name=ENET_INTn
+Change Net Name : Old Net Name=xENET_MDC New Net Name=ENET_MDC
+Change Net Name : Old Net Name=xENET_MDIO New Net Name=ENET_MDIO
+Change Net Name : Old Net Name=xENET_RESn New Net Name=ENET_RESETn
+Change Net Name : Old Net Name=xPHY_125MHz New Net Name=PHY_125MHZ
+Change Net Name : Old Net Name=xPHY_COL New Net Name=PHY_COL
+Change Net Name : Old Net Name=xPHY_CRS New Net Name=PHY_CRS
+Change Net Name : Old Net Name=xPHY_TRSTn New Net Name=PHY_TRSTn
+Added Member To Class: ClassName=Xilinx PWR Member=Component C187 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C189 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C192 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C196 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C197 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C200 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C202 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C204 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C205 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C206 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C207 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C209 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C213 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C215 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C217 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C220 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C222 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C224 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C226 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C228 Cap
+Added Member To Class: ClassName=Xilinx PWR Member=Component C230 Cap
+Added Member To Class: ClassName=Ethernet Member=Wire ENET_INTn
+Added Member To Class: ClassName=Ethernet Member=Wire ENET_MDC
+Added Member To Class: ClassName=Ethernet Member=Wire ENET_MDIO
+Added Member To Class: ClassName=Ethernet Member=Wire ENET_RESETn
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_125MHZ
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_COL
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_CRS
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_TRSTn

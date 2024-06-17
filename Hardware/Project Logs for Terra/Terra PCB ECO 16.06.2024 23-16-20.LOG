@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Ethernet Member=PHY_RXD3
+Change Net Name : Old Net Name=NetU19_D1 New Net Name=PHY_RX_CLK
+Added Pin To Net: NetName=PHY_RX_ERR Pin=U19-B3
+Added Pin To Net: NetName=PHY_RX_ERR Pin=U19-F2
+Added Pin To Net: NetName=PHY_RX_ERR Pin=U20-G17
+Added Pin To Net: NetName=PHY_RX_ERR Pin=U20-L16
+Added Net: Name=PHY_RX_ERR
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_RX_CLK
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_RX_DV
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_RX_ERR
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_RXC
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_TX_EN
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_TXC

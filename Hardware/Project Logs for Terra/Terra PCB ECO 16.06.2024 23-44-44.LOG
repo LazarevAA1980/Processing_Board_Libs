@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Ethernet Member=PHY_RX_ERR
+Added Member To Class: ClassName=Ethernet2 Member=Wire TST1
+Added Member To Class: ClassName=Ethernet2 Member=Wire TST2
+Added Member To Class: ClassName=Ethernet2 Member=Wire TST3
+Added Member To Class: ClassName=Ethernet2 Member=Wire TST4
+Added Member To Class: ClassName=Ethernet2 Member=Wire TST5

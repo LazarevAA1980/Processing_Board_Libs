@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PHY_RX_ERR Pin=U19-B3
+Removed Pin From Net: NetName=PHY_RX_ERR Pin=U20-L16
+Added Pin To Net: NetName=PHY_RXD3 Pin=U19-B3
+Added Pin To Net: NetName=PHY_RXD3 Pin=U20-L16
+Added Net: Name=PHY_RXD3
+Added Member To Class: ClassName=Ethernet Member=Wire PHY_RXD3
