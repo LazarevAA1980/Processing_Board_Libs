@@ -2,9 +2,233 @@
    "ExpandedHierarchyInLayout":"",
    "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 non-TLS
 #  -string -flagsOSRD
-preplace port TEST -pg 1 -lvl 0 -x 0 -y -200 -defaultsOSRD
-levelinfo -pg 1 0 30
-pagesize -pg 1 -db -bbox -sgen -90 -220 30 40
+preplace port mdio_rtl_0 -pg 1 -lvl 5 -x 1680 -y 620 -defaultsOSRD
+preplace port diff_clock_rtl_0 -pg 1 -lvl 0 -x 0 -y 660 -defaultsOSRD
+preplace port iic_rtl_0 -pg 1 -lvl 5 -x 1680 -y 2150 -defaultsOSRD
+preplace port DDR3_RAS -pg 1 -lvl 5 -x 1680 -y 190 -defaultsOSRD
+preplace port DDR3_CAS -pg 1 -lvl 5 -x 1680 -y 210 -defaultsOSRD
+preplace port DDR3_WE -pg 1 -lvl 5 -x 1680 -y 230 -defaultsOSRD
+preplace port DDR3_S0 -pg 1 -lvl 5 -x 1680 -y 330 -defaultsOSRD
+preplace port DDR3_ODT -pg 1 -lvl 5 -x 1680 -y 370 -defaultsOSRD
+preplace port DDR3_SKE0 -pg 1 -lvl 5 -x 1680 -y 310 -defaultsOSRD
+preplace port DDR3_RESET -pg 1 -lvl 5 -x 1680 -y 250 -defaultsOSRD
+preplace port DDR3_CLK_P -pg 1 -lvl 5 -x 1680 -y 270 -defaultsOSRD
+preplace port DDR3_CLK_N -pg 1 -lvl 5 -x 1680 -y 290 -defaultsOSRD
+preplace port SGMII_S_IN_P -pg 1 -lvl 5 -x 1680 -y 660 -defaultsOSRD -right
+preplace port SGMII_S_IN_N -pg 1 -lvl 5 -x 1680 -y 680 -defaultsOSRD -right
+preplace port SGMII_S_OUT_P -pg 1 -lvl 5 -x 1680 -y 720 -defaultsOSRD
+preplace port SGMII_S_OUT_N -pg 1 -lvl 5 -x 1680 -y 700 -defaultsOSRD
+preplace port ENET_MDC -pg 1 -lvl 5 -x 1680 -y 1450 -defaultsOSRD
+preplace port ENET_RESETn -pg 1 -lvl 5 -x 1680 -y 1670 -defaultsOSRD
+preplace port ENET_INTn -pg 1 -lvl 5 -x 1680 -y 1650 -defaultsOSRD
+preplace port SGMII_S_CLK_N -pg 1 -lvl 0 -x 0 -y 160 -defaultsOSRD
+preplace port SGMII_S_CLK_P -pg 1 -lvl 0 -x 0 -y 140 -defaultsOSRD
+preplace port ENET_125MHZ -pg 1 -lvl 5 -x 1680 -y 1710 -defaultsOSRD
+preplace port RGMII_TXC -pg 1 -lvl 5 -x 1680 -y 1610 -defaultsOSRD
+preplace port RGMII_TX_EN -pg 1 -lvl 5 -x 1680 -y 1590 -defaultsOSRD
+preplace port RGMII_RXC -pg 1 -lvl 5 -x 1680 -y 1550 -defaultsOSRD -right
+preplace port RGMII_RX_DV -pg 1 -lvl 5 -x 1680 -y 1530 -defaultsOSRD -right
+preplace port ENET_MDIO -pg 1 -lvl 5 -x 1680 -y 1470 -defaultsOSRD
+preplace port SYS_CLK_N -pg 1 -lvl 0 -x 0 -y 240 -defaultsOSRD
+preplace port SYS_CLK_P -pg 1 -lvl 0 -x 0 -y 220 -defaultsOSRD
+preplace port reset_rtl_0_0 -pg 1 -lvl 0 -x 0 -y 680 -defaultsOSRD
+preplace port CAN_RX -pg 1 -lvl 5 -x 1680 -y 1850 -defaultsOSRD -right
+preplace port CAN_TX -pg 1 -lvl 5 -x 1680 -y 1870 -defaultsOSRD
+preplace port CAN_STB -pg 1 -lvl 5 -x 1680 -y 1890 -defaultsOSRD
+preplace port UART_RX -pg 1 -lvl 5 -x 1680 -y 2010 -defaultsOSRD -right
+preplace port UART_TX -pg 1 -lvl 5 -x 1680 -y 2030 -defaultsOSRD
+preplace port reset_rtl_0 -pg 1 -lvl 5 -x 1680 -y 510 -defaultsOSRD
+preplace port ADC0_CLK_P -pg 1 -lvl 0 -x 0 -y 1310 -defaultsOSRD
+preplace port ADC0_CLK_N -pg 1 -lvl 0 -x 0 -y 1330 -defaultsOSRD
+preplace port ADC0_DCO -pg 1 -lvl 0 -x 0 -y 1370 -defaultsOSRD
+preplace port ADC0_OR -pg 1 -lvl 0 -x 0 -y 1350 -defaultsOSRD
+preplace port ADC1_CLK_N -pg 1 -lvl 0 -x 0 -y 1550 -defaultsOSRD
+preplace port ADC1_CLK_P -pg 1 -lvl 0 -x 0 -y 1530 -defaultsOSRD
+preplace port ADC1_DCO -pg 1 -lvl 0 -x 0 -y 1590 -defaultsOSRD
+preplace port ADC1_OR -pg 1 -lvl 0 -x 0 -y 1570 -defaultsOSRD
+preplace port PHY_COL -pg 1 -lvl 0 -x 0 -y 1990 -defaultsOSRD
+preplace port PXY_RX_ERR -pg 1 -lvl 0 -x 0 -y 2030 -defaultsOSRD
+preplace port ENET_TRSTn -pg 1 -lvl 0 -x 0 -y 1970 -defaultsOSRD
+preplace port PHY_CRS -pg 1 -lvl 0 -x 0 -y 2010 -defaultsOSRD
+preplace port ADC0_CSn -pg 1 -lvl 0 -x 0 -y 1690 -defaultsOSRD
+preplace port ADC1_CSn -pg 1 -lvl 0 -x 0 -y 1710 -defaultsOSRD
+preplace port ADC_PWR -pg 1 -lvl 0 -x 0 -y 1730 -defaultsOSRD
+preplace port ADC_SDIO -pg 1 -lvl 0 -x 0 -y 1770 -defaultsOSRD
+preplace port ADC_RESn -pg 1 -lvl 0 -x 0 -y 1750 -defaultsOSRD
+preplace port ADC_SDA -pg 1 -lvl 0 -x 0 -y 1830 -defaultsOSRD
+preplace port ADC_LDAC -pg 1 -lvl 0 -x 0 -y 1790 -defaultsOSRD
+preplace port ADC_INT -pg 1 -lvl 0 -x 0 -y 1810 -defaultsOSRD
+preplace port ADC_SCL -pg 1 -lvl 0 -x 0 -y 1850 -defaultsOSRD
+preplace port ADC_HV_EN -pg 1 -lvl 0 -x 0 -y 1870 -defaultsOSRD
+preplace port BISS1_DATA -pg 1 -lvl 0 -x 0 -y 2130 -defaultsOSRD
+preplace port BISS1_CLK -pg 1 -lvl 0 -x 0 -y 2150 -defaultsOSRD
+preplace port BISS2_DATA -pg 1 -lvl 0 -x 0 -y 2170 -defaultsOSRD
+preplace port BISS2_CLK -pg 1 -lvl 0 -x 0 -y 2190 -defaultsOSRD
+preplace port BISS_ZPNT -pg 1 -lvl 0 -x 0 -y 2210 -defaultsOSRD
+preplace port LED_1 -pg 1 -lvl 5 -x 1680 -y 2350 -defaultsOSRD
+preplace port USER_OUT -pg 1 -lvl 5 -x 1680 -y 2370 -defaultsOSRD
+preplace port LASER_SHDN -pg 1 -lvl 0 -x 0 -y 2310 -defaultsOSRD
+preplace port LASER_DISABLE -pg 1 -lvl 0 -x 0 -y 2330 -defaultsOSRD
+preplace port LASER_EN_POW -pg 1 -lvl 0 -x 0 -y 2350 -defaultsOSRD
+preplace port LASER_LVDS -pg 1 -lvl 0 -x 0 -y 2370 -defaultsOSRD
+preplace port LASER_SDA -pg 1 -lvl 0 -x 0 -y 2390 -defaultsOSRD
+preplace port LASER_SCL -pg 1 -lvl 0 -x 0 -y 2410 -defaultsOSRD
+preplace port CAM_MC_P -pg 1 -lvl 0 -x 0 -y 480 -defaultsOSRD
+preplace port CAM_MC_N -pg 1 -lvl 0 -x 0 -y 500 -defaultsOSRD
+preplace portBus DDR3_A -pg 1 -lvl 5 -x 1680 -y 150 -defaultsOSRD
+preplace portBus DDR3_D -pg 1 -lvl 5 -x 1680 -y 90 -defaultsOSRD
+preplace portBus RGMII_TXD -pg 1 -lvl 5 -x 1680 -y 1570 -defaultsOSRD
+preplace portBus RGMII_RXD -pg 1 -lvl 5 -x 1680 -y 1510 -defaultsOSRD -right
+preplace portBus DDR3_DM -pg 1 -lvl 5 -x 1680 -y 350 -defaultsOSRD
+preplace portBus DDR3_DQS_N -pg 1 -lvl 5 -x 1680 -y 130 -defaultsOSRD
+preplace portBus DDR3_DQS_P -pg 1 -lvl 5 -x 1680 -y 110 -defaultsOSRD
+preplace portBus DDR3_BA -pg 1 -lvl 5 -x 1680 -y 170 -defaultsOSRD
+preplace portBus ADC0_D -pg 1 -lvl 0 -x 0 -y 1290 -defaultsOSRD
+preplace portBus ADC1_D -pg 1 -lvl 0 -x 0 -y 1510 -defaultsOSRD
+preplace portBus CAM_MD_N -pg 1 -lvl 0 -x 0 -y 460 -defaultsOSRD
+preplace portBus CAM_MD_P -pg 1 -lvl 0 -x 0 -y 440 -defaultsOSRD
+preplace inst axi_ethernet_1 -pg 1 -lvl 4 -x 1460 -y 1550 -defaultsOSRD
+preplace inst util_ds_buf_0 -pg 1 -lvl 1 -x 270 -y 140 -defaultsOSRD
+preplace inst axi_ethernet_0 -pg 1 -lvl 4 -x 1460 -y 820 -defaultsOSRD
+preplace inst mig_7series_0 -pg 1 -lvl 4 -x 1460 -y 260 -defaultsOSRD
+preplace inst microblaze_0 -pg 1 -lvl 1 -x 270 -y 1080 -defaultsOSRD
+preplace inst axi_smc -pg 1 -lvl 2 -x 740 -y 1150 -defaultsOSRD
+preplace inst rst_mig_7series_0_166M -pg 1 -lvl 2 -x 740 -y 790 -defaultsOSRD
+preplace inst axis_interconnect_0 -pg 1 -lvl 2 -x 740 -y 1440 -defaultsOSRD
+preplace inst rst_clk_wiz_100M -pg 1 -lvl 4 -x 1460 -y 1230 -defaultsOSRD
+preplace inst clk_wiz -pg 1 -lvl 3 -x 1070 -y 1270 -defaultsOSRD
+preplace inst microblaze_0_local_memory -pg 1 -lvl 2 -x 740 -y 980 -defaultsOSRD
+preplace inst mdm_1 -pg 1 -lvl 1 -x 270 -y 920 -defaultsOSRD
+preplace inst can_0 -pg 1 -lvl 4 -x 1460 -y 1850 -defaultsOSRD
+preplace inst axi_iic_0 -pg 1 -lvl 4 -x 1460 -y 2170 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 4 -x 1460 -y 2020 -defaultsOSRD
+preplace inst mdm_0 -pg 1 -lvl 3 -x 1070 -y 1400 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 1 -x 270 -y 1780 -defaultsOSRD
+preplace inst xlconcat_1 -pg 1 -lvl 1 -x 270 -y 2000 -defaultsOSRD
+preplace inst xlconcat_2 -pg 1 -lvl 1 -x 270 -y 2170 -defaultsOSRD
+preplace inst version_0 -pg 1 -lvl 4 -x 1460 -y 2360 -defaultsOSRD
+preplace inst xlconcat_3 -pg 1 -lvl 1 -x 270 -y 2360 -defaultsOSRD
+preplace inst ADC_K5101HB04FI_1 -pg 1 -lvl 1 -x 270 -y 1530 -defaultsOSRD
+preplace inst ADC_K5101HB04FI_0 -pg 1 -lvl 1 -x 270 -y 1310 -defaultsOSRD
+preplace inst CAM_ctrl_0 -pg 1 -lvl 1 -x 270 -y 450 -defaultsOSRD
+preplace netloc axi_ethernet_0_sgmii_txp 1 4 1 N 720
+preplace netloc axi_ethernet_0_sgmii_txn 1 4 1 N 700
+preplace netloc SGMII_S_IN_P1_1 1 4 1 N 680
+preplace netloc SGMII_S_IN_P_1 1 4 1 N 660
+preplace netloc axi_ethernet_1_rgmii_txc 1 4 1 N 1610
+preplace netloc axi_ethernet_1_rgmii_tx_ctl 1 4 1 N 1590
+preplace netloc axi_ethernet_1_rgmii_td 1 4 1 N 1570
+preplace netloc RGMII_RXC_1 1 4 1 N 1550
+preplace netloc RGMII_RX_DV_1 1 4 1 N 1530
+preplace netloc RGMII_RXD_1 1 4 1 N 1510
+preplace netloc axi_ethernet_1_gtx_clk_out 1 4 1 N 1710
+preplace netloc axi_ethernet_1_mdio_mdio_o 1 4 1 N 1470
+preplace netloc axi_ethernet_1_mdio_mdc 1 4 1 N 1450
+preplace netloc axi_ethernet_1_phy_rst_n 1 4 1 N 1670
+preplace netloc axi_ethernet_1_interrupt 1 4 1 N 1650
+preplace netloc SGMII_S_CLK_N_1 1 0 1 N 160
+preplace netloc SGMII_S_IN_P3_1 1 0 1 N 140
+preplace netloc mig_7series_0_ddr3_ras_n 1 4 1 N 190
+preplace netloc mig_7series_0_ddr3_cas_n 1 4 1 N 210
+preplace netloc mig_7series_0_ddr3_cke 1 4 1 N 310
+preplace netloc mig_7series_0_ddr3_odt 1 4 1 N 370
+preplace netloc mig_7series_0_ddr3_dm 1 4 1 N 350
+preplace netloc mig_7series_0_ddr3_addr 1 4 1 N 150
+preplace netloc Net 1 4 1 N 110
+preplace netloc Net1 1 4 1 N 130
+preplace netloc mig_7series_0_ddr3_ck_n 1 4 1 N 290
+preplace netloc mig_7series_0_ddr3_reset_n 1 4 1 N 250
+preplace netloc mig_7series_0_ddr3_we_n 1 4 1 N 230
+preplace netloc mig_7series_0_ddr3_ck_p 1 4 1 N 270
+preplace netloc Net2 1 4 1 N 90
+preplace netloc mig_7series_0_ddr3_ba 1 4 1 N 170
+preplace netloc mig_7series_0_ddr3_cs_n 1 4 1 N 330
+preplace netloc mig_7series_0_mmcm_locked 1 1 4 550 10 N 10 N 10 1660
+preplace netloc mig_7series_0_ui_clk_sync_rst 1 0 5 20 770 530 690 940 1140 1250 1120 1650
+preplace netloc rst_mig_7series_0_166M_peripheral_aresetn 1 1 3 570 890 920 320 N
+preplace netloc rst_clk_wiz_100M_peripheral_aresetn 1 1 4 570 1620 NJ 1620 1230 2250 1640
+preplace netloc SYS_CLK_N_1 1 0 4 NJ 240 NJ 240 NJ 240 N
+preplace netloc SYS_CLK_P_1 1 0 4 N 220 N 220 NJ 220 NJ
+preplace netloc clk_wiz_clk_out1 1 3 1 1240 940n
+preplace netloc reset_rtl_0_0_1 1 0 4 NJ 680 510J 670 NJ 670 1280J
+preplace netloc mig_7series_0_ui_clk 1 0 5 30 1190 540 1260 910 1170 1270 1130 1640
+preplace netloc rst_clk_wiz_100M_bus_struct_reset 1 1 4 560 520 NJ 520 NJ 520 1630J
+preplace netloc mdm_1_debug_sys_rst 1 1 3 520J 680 NJ 680 1260J
+preplace netloc reset_rtl_0_1_1 1 4 1 N 1850
+preplace netloc can_0_can_phy_tx 1 4 1 N 1870
+preplace netloc can_0_ip2bus_intrevent 1 4 1 N 1890
+preplace netloc clk_wiz_clk_out2 1 3 2 1200J 1330 1630
+preplace netloc UART_TX_1 1 4 1 N 2010
+preplace netloc axi_uartlite_0_tx 1 4 1 N 2030
+preplace netloc axi_ethernet_0_phy_rst_n 1 3 2 1290 510 1660
+preplace netloc ADC0_CLK_N_1 1 0 1 N 1330
+preplace netloc ADC0_CLK_P_1 1 0 1 N 1310
+preplace netloc ADC0_CLK_N4_1 1 0 1 N 1350
+preplace netloc ADC0_CLK_N2_1 1 0 1 N 1370
+preplace netloc ADC0_DATA_1 1 0 1 N 1290
+preplace netloc ADC0_CLK_N1_1 1 0 1 N 1550
+preplace netloc ADC0_CLK_P1_1 1 0 1 N 1530
+preplace netloc ADC0_DCO1_1 1 0 1 N 1590
+preplace netloc ADC0_OR1_1 1 0 1 N 1570
+preplace netloc ADC0_D1_1 1 0 1 N 1510
+preplace netloc ADC0_CSn_1 1 0 1 N 1690
+preplace netloc ADC1_CSn_1 1 0 1 N 1710
+preplace netloc ADC_PWR_1 1 0 1 N 1730
+preplace netloc ADC_RESn_1 1 0 1 N 1750
+preplace netloc ADC_SDIO_1 1 0 1 N 1770
+preplace netloc ADC_LDAC_1 1 0 1 N 1790
+preplace netloc ADC_INT_1 1 0 1 N 1810
+preplace netloc ADC_SDA_1 1 0 1 N 1830
+preplace netloc ADC_SCL_1 1 0 1 N 1850
+preplace netloc ADC_INT1_1 1 0 1 N 1870
+preplace netloc ENET_TRSTn_1 1 0 1 N 1970
+preplace netloc PHY_COL_1 1 0 1 N 1990
+preplace netloc PHY_CRS_1 1 0 1 N 2010
+preplace netloc PXY_RX_ERR_1 1 0 1 N 2030
+preplace netloc BISS1_DATA_1 1 0 1 N 2130
+preplace netloc BISS1_CLK_1 1 0 1 N 2150
+preplace netloc BISS2_DATA_1 1 0 1 N 2170
+preplace netloc BISS2_CLK_1 1 0 1 N 2190
+preplace netloc BISS_ZPNT_1 1 0 1 N 2210
+preplace netloc version_0_adc_led 1 4 1 N 2350
+preplace netloc version_0_clk_1KHZ 1 4 1 N 2370
+preplace netloc LASER_SHDN_1 1 0 1 N 2310
+preplace netloc LASER_DISABLE_1 1 0 1 N 2330
+preplace netloc LASER_EN_POW_1 1 0 1 N 2350
+preplace netloc LASER_LVDS_1 1 0 1 N 2370
+preplace netloc LASER_SDA_1 1 0 1 N 2390
+preplace netloc LASER_SCL_1 1 0 1 N 2410
+preplace netloc CAM_MD_P_1 1 0 1 N 440
+preplace netloc CAM_MD_N_1 1 0 1 N 460
+preplace netloc CAM_MC_P_1 1 0 1 N 480
+preplace netloc CAM_MC_N_1 1 0 1 N 500
+preplace netloc microblaze_0_M_AXI_DP 1 1 1 520 1070n
+preplace netloc microblaze_0_M0_AXIS 1 1 1 510 1090n
+preplace netloc axi_smc_M00_AXI 1 2 2 910 260 N
+preplace netloc axi_smc_M02_AXI 1 2 2 930J 1150 1220
+preplace netloc axis_interconnect_0_M03_AXIS 1 2 2 920J 1480 N
+preplace netloc axi_iic_0_IIC 1 4 1 N 2150
+preplace netloc axis_interconnect_0_M00_AXIS 1 2 2 920J 1120 1190
+preplace netloc axi_smc_M01_AXI 1 2 2 910J 1110 1180
+preplace netloc microblaze_0_dlmb_1 1 1 1 520 950n
+preplace netloc microblaze_0_debug 1 0 2 30 850 510
+preplace netloc axi_ethernet_0_mdio 1 4 1 N 620
+preplace netloc diff_clock_rtl_0_1 1 0 4 NJ 660 N 660 N 660 1290
+preplace netloc microblaze_0_M_AXI_DC 1 1 1 N 1110
+preplace netloc axi_smc_M04_AXI 1 2 2 NJ 1180 1190
+preplace netloc axi_smc_M05_AXI 1 2 2 960J 1190 1180
+preplace netloc axis_interconnect_0_M01_AXIS 1 2 2 950J 1130 1210
+preplace netloc axis_interconnect_0_M02_AXIS 1 2 2 950J 1470 1290
+preplace netloc microblaze_0_ilmb_1 1 1 1 550 970n
+preplace netloc microblaze_0_M_AXI_IC 1 1 1 N 1130
+preplace netloc axi_smc_M03_AXI 1 2 2 NJ 1160 1210
+levelinfo -pg 1 0 270 740 1070 1460 1680
+pagesize -pg 1 -db -bbox -sgen -170 0 1860 2470
 "
 }
-
+{
+   "da_axi4_cnt":"5",
+   "da_board_cnt":"16",
+   "da_clkrst_cnt":"17",
+   "da_mb_cnt":"1"
+}

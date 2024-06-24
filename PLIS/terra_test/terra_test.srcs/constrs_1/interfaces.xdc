@@ -71,55 +71,59 @@ set_property PACKAGE_PIN M6   [get_ports {DDR3_DM2}]
 set_property PACKAGE_PIN L4   [get_ports {DDR3_DM3}]
 #set_property IOSTANDARD  LVCMOS25 [get_ports {DDR3_DM*}]  
 
-set_property PACKAGE_PIN R3   [get_ports {DDR3_CLK0_P}]
-set_property PACKAGE_PIN R2   [get_ports {DDR3_CLK0_N}]
-set_property IOSTANDARD  LVDS [get_ports {DDR3_CLK0*}]
+set_property PACKAGE_PIN R3   [get_ports {DDR3_CLK_P}]
+set_property PACKAGE_PIN R2   [get_ports {DDR3_CLK_N}]
+set_property IOSTANDARD  LVDS [get_ports {DDR3_CLK*}]
 
-set_property PACKAGE_PIN E1   [get_ports {DDR3_DQS0_P}]
-set_property PACKAGE_PIN D1   [get_ports {DDR3_DQS0_N}]
-set_property PACKAGE_PIN K2   [get_ports {DDR3_DQS1_P}]
-set_property PACKAGE_PIN J2   [get_ports {DDR3_DQS1_N}]
-set_property PACKAGE_PIN M1   [get_ports {DDR3_DQS2_P}]
-set_property PACKAGE_PIN L1   [get_ports {DDR3_DQS2_N}]
-set_property PACKAGE_PIN P5   [get_ports {DDR3_DQS3_P}]
-set_property PACKAGE_PIN P4   [get_ports {DDR3_DQS3_N}]
+set_property PACKAGE_PIN E1   [get_ports {DDR3_DQS_P0}]
+set_property PACKAGE_PIN D1   [get_ports {DDR3_DQS_N0}]
+set_property PACKAGE_PIN K2   [get_ports {DDR3_DQS_P1}]
+set_property PACKAGE_PIN J2   [get_ports {DDR3_DQS_N1}]
+set_property PACKAGE_PIN M1   [get_ports {DDR3_DQS_P2}]
+set_property PACKAGE_PIN L1   [get_ports {DDR3_DQS_N2}]
+set_property PACKAGE_PIN P5   [get_ports {DDR3_DQS_P3}]
+set_property PACKAGE_PIN P4   [get_ports {DDR3_DQS_N3}]
 set_property IOSTANDARD  LVDS [get_ports {DDR3_DQS*}]
 
 # E3,N3  - VTTREF
 
 #### Ethernet SGMII
-set_property PACKAGE_PIN K17  [get_ports {ETX_S_IN_P}]
-set_property PACKAGE_PIN J17  [get_ports {ETX_S_IN_N}]
-set_property PACKAGE_PIN J14  [get_ports {ETX_S_OUT_P}]
-set_property PACKAGE_PIN H14  [get_ports {ETX_S_OUT_N}]
-set_property PACKAGE_PIN J15  [get_ports {ETX_S_CLK_P}]
-set_property PACKAGE_PIN H15  [get_ports {ETX_S_CLK_N}]
-set_property IOSTANDARD  LVDS [get_ports {ETX_S*}]
+set_property PACKAGE_PIN K17  [get_ports {SGMII_S_IN_P}]
+set_property PACKAGE_PIN J17  [get_ports {SGMII_S_IN_N}]
+set_property PACKAGE_PIN J14  [get_ports {SGMII_S_OUT_P}]
+set_property PACKAGE_PIN H14  [get_ports {SGMII_S_OUT_N}]
+set_property PACKAGE_PIN J15  [get_ports {SGMII_S_CLK_P}]
+set_property PACKAGE_PIN H15  [get_ports {SGMII_S_CLK_N}]
+set_property IOSTANDARD  LVDS [get_ports {SGMII_S*}]
 
 #### Ethernet RGMII
-set_property PACKAGE_PIN J21  [get_ports {ETX_RXD[0]}]
-set_property PACKAGE_PIN H20  [get_ports {ETX_RXD[1}}]
-set_property PACKAGE_PIN H17  [get_ports {ETX_RXD[2]}]
-set_property PACKAGE_PIN L16  [get_ports {ETX_RXD[3]}]
-set_property PACKAGE_PIN L14  [get_ports {ETX_TXD[0]}]
-set_property PACKAGE_PIN L18  [get_ports {ETX_TXD[1}}]
-set_property PACKAGE_PIN K21  [get_ports {ETX_TXD[2]}]
-set_property PACKAGE_PIN L21  [get_ports {ETX_TXD[3]}]
+set_property PACKAGE_PIN J21  [get_ports {RGMII_RXD[0]}]
+set_property PACKAGE_PIN H20  [get_ports {RGMII_RXD[1}}]
+set_property PACKAGE_PIN H17  [get_ports {RGMII_RXD[2]}]
+set_property PACKAGE_PIN L16  [get_ports {RGMII_RXD[3]}]
+set_property PACKAGE_PIN L14  [get_ports {RGMII_TXD[0]}]
+set_property PACKAGE_PIN L18  [get_ports {RGMII_TXD[1}}]
+set_property PACKAGE_PIN K21  [get_ports {RGMII_TXD[2]}]
+set_property PACKAGE_PIN L21  [get_ports {RGMII_TXD[3]}]
 
-set_property PACKAGE_PIN H22  [get_ports {ETX_TXC}]
-set_property PACKAGE_PIN J19  [get_ports {ETX_TX_EN}]
-set_property PACKAGE_PIN K22  [get_ports {ETX_RXC}]
-set_property PACKAGE_PIN J20  [get_ports {ETX_RX_DV}]
+set_property PACKAGE_PIN H22  [get_ports {RGMII_TXC}]
+set_property PACKAGE_PIN J19  [get_ports {RGMII_TX_EN}]
+set_property PACKAGE_PIN K22  [get_ports {RGMII_RXC}]
+set_property PACKAGE_PIN J20  [get_ports {RGMII_RX_DV}]
 
-#### Ethernet control
-#set_property PACKAGE_PIN ?  [get_ports {PXY_RX_CLK}]
-set_property PACKAGE_PIN G17  [get_ports {PXY_RX_ERR}]
-set_property PACKAGE_PIN N22  [get_ports {ENET_INTn}]
+#### Ethernet MDIO
 set_property PACKAGE_PIN G16  [get_ports {ENET_MDC}]
 set_property PACKAGE_PIN M21  [get_ports {ENET_MDIO}]
-set_property PACKAGE_PIN J22  [get_ports {ENET_RESETn}]
-set_property PACKAGE_PIN L20  [get_ports {ENET_TRSTn}]
+
+#### Ethernet control
+set_property PACKAGE_PIN N22  [get_ports {ENET_INTn}]
 set_property PACKAGE_PIN G18  [get_ports {ENET_125MHZ}]
+set_property PACKAGE_PIN J22  [get_ports {ENET_RESETn}]
+
+#### Ethernet noused
+#set_property PACKAGE_PIN ?  [get_ports {PXY_RX_CLK}]
+set_property PACKAGE_PIN G17  [get_ports {PXY_RX_ERR}]
+set_property PACKAGE_PIN L20  [get_ports {ENET_TRSTn}]
 set_property PACKAGE_PIN K19  [get_ports {PHY_COL}]
 set_property PACKAGE_PIN H19  [get_ports {PHY_CRS}]
 
@@ -144,6 +148,7 @@ set_property IOSTANDARD  LVCMOS25 [get_ports {ADC0_D[*]}]
 
 set_property PACKAGE_PIN W14  [get_ports {ADC0_DCO}]
 set_property PACKAGE_PIN Y14  [get_ports {ADC0_CSn}]
+set_property PACKAGE_PIN M16  [get_ports {ADC0_OR}]
 
 set_property PACKAGE_PIN W12  [get_ports {ADC0_CLK_P}]
 set_property PACKAGE_PIN W11  [get_ports {ADC0_CLK_N}]
@@ -171,6 +176,7 @@ set_property PACKAGE_PIN K13  [get_ports {ADC1_D[15]}]
 
 set_property PACKAGE_PIN AB16 [get_ports {ADC1_DCO}]
 set_property PACKAGE_PIN Y12  [get_ports {ADC1_CSn}]
+set_property PACKAGE_PIN AA9  [get_ports {ADC1_OR}]
 
 set_property PACKAGE_PIN V10  [get_ports {ADC1_CLK_P[1]}]
 set_property PACKAGE_PIN W10  [get_ports {ADC1_CLK_N[1]}]
@@ -181,10 +187,8 @@ set_property IOSTANDARD  LVDS     [get_ports {ADC1_CLK_N[1]}]
 
 #### ADC common control
 set_property PACKAGE_PIN Y16   [get_ports {ADC_PWR}]
-set_property PACKAGE_PIN AA9   [get_ports {ADC_OR}]
 set_property PACKAGE_PIN T14   [get_ports {ADC_RESn}]
 set_property PACKAGE_PIN M15   [get_ports {ADC_SDIO}]
-set_property PACKAGE_PIN M16   [get_ports {ADC_OR}]
 set_property PACKAGE_PIN Y7    [get_ports {ADC_SDA}]
 set_property PACKAGE_PIN Y8    [get_ports {ADC_SCL}]
 set_property PACKAGE_PIN V3    [get_ports {ADC_LDAC}]
@@ -225,14 +229,14 @@ set_property PACKAGE_PIN AA20  [get_ports {UART_TX}]
 set_property PACKAGE_PIN AA19  [get_ports {UART_RX}]
 
 #### Camera 
-set_property PACKAGE_PIN C22   [get_ports {CAM_MD0_P}]
-set_property PACKAGE_PIN B22   [get_ports {CAM_MD0_N}]
-set_property PACKAGE_PIN A13   [get_ports {CAM_MD1_P}]
-set_property PACKAGE_PIN A14   [get_ports {CAM_MD1_N}]
-set_property PACKAGE_PIN A18   [get_ports {CAM_MD2_P}]
-set_property PACKAGE_PIN A19   [get_ports {CAM_MD2_N}]
-set_property PACKAGE_PIN A15   [get_ports {CAM_MD3_P}]
-set_property PACKAGE_PIN A16   [get_ports {CAM_MD3_N}]
+set_property PACKAGE_PIN C22   [get_ports {CAM_MD_P0}]
+set_property PACKAGE_PIN B22   [get_ports {CAM_MD_N0}]
+set_property PACKAGE_PIN A13   [get_ports {CAM_MD_P1}]
+set_property PACKAGE_PIN A14   [get_ports {CAM_MD_N1}]
+set_property PACKAGE_PIN A18   [get_ports {CAM_MD_P2}]
+set_property PACKAGE_PIN A19   [get_ports {CAM_MD_N2}]
+set_property PACKAGE_PIN A15   [get_ports {CAM_MD_P3}]
+set_property PACKAGE_PIN A16   [get_ports {CAM_MD_N3}]
 set_property PACKAGE_PIN E22   [get_ports {CAM_MC_P}]
 set_property PACKAGE_PIN B22   [get_ports {CAM_MC_N}]
 
@@ -257,10 +261,8 @@ set_property PACKAGE_PIN AA8   [get_ports {EXTERN_SCL}]
 set_property PACKAGE_PIN V7    [get_ports {LED_1}]
 set_property PACKAGE_PIN Y19   [get_ports {USER_OUT}]
 
-set_property PACKAGE_PIN R4    [get_ports {SYS_CLK0_P}]
-set_property PACKAGE_PIN T4    [get_ports {SYS_CLK0_N}]
-
-
+set_property PACKAGE_PIN R4    [get_ports {SYS_CLK_P}]
+set_property PACKAGE_PIN T4    [get_ports {SYS_CLK_N}]
 
 #set_property PACKAGE_PIN ?    [get_ports {ADC0_DCO}]
 #set_property PACKAGE_PIN ?    [get_ports {ADC0_DCO}]
@@ -276,8 +278,6 @@ set_property PACKAGE_PIN T4    [get_ports {SYS_CLK0_N}]
 #set_property DRIVE 16 [get_ports {ADC_SYNCB[0]}]
 #set_property SLEW SLOW [get_ports {ADC_SYNCB[0]}]
 #set_property OUTPUT_IMPEDANCE RDRV_40_40 [get_ports {ADC_SYNCB[0]}]
-
-
 
 # Set +/- 0.5ns between the rising edges of the clock and sysref
 #set_input_delay -clock jesd204_0_refclk -max  0.5   [get_ports ADC_FPGA_JESD_SYSREF_P]
