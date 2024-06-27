@@ -1,0 +1,559 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 25 00:57:53 2024
+# Process ID: 16256
+# Current directory: D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/synth_1
+# Command line: vivado.exe -log ADC_K5101HB04FI.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ADC_K5101HB04FI.tcl
+# Log file: D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/synth_1/ADC_K5101HB04FI.vds
+# Journal file: D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ADC_K5101HB04FI.tcl -notrace
+Command: synth_design -top ADC_K5101HB04FI -part xc7a200tfbv484-2L
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Device 21-403] Loading part xc7a200tfbv484-2L
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 16884 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:01 ; elapsed = 00:00:02 . Memory (MB): peak = 848.023 ; gain = 179.672
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'ADC_K5101HB04FI' [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/sources_1/VHDL/ADC_ctrl.vhd:33]
+INFO: [Synth 8-256] done synthesizing module 'ADC_K5101HB04FI' (1#1) [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/sources_1/VHDL/ADC_ctrl.vhd:33]
+WARNING: [Synth 8-3330] design ADC_K5101HB04FI has an empty top module
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 911.262 ; gain = 242.910
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 911.262 ; gain = 242.910
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 911.262 ; gain = 242.910
+---------------------------------------------------------------------------------
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc]
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[0]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:4]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:4]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[1]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:5]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:5]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[2]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:6]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:6]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[3]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:7]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:7]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[4]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:8]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:8]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[5]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:9]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:9]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[6]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:10]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:10]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[7]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:11]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:11]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[8]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:12]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:12]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[9]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:13]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:13]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[10]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:14]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:14]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[11]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:15]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:15]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[12]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:16]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:16]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[13]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:17]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:17]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[14]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:18]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:18]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ADDR[*]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:19]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:19]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[0]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:21]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:21]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[1]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:22]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:22]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[2]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:23]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:23]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[3]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:24]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:24]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[4]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:25]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:25]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[5]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:26]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:26]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[6]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:27]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:27]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[7]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:28]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:28]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[8]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:29]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:29]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[9]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:30]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:30]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[10]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:31]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:31]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[11]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:32]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:32]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[12]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:33]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:33]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[13]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:34]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:34]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[14]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:35]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:35]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[15]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:36]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:36]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[16]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:37]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:37]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[17]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:38]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:38]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[18]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:39]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:39]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[19]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:40]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:40]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[20]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:41]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:41]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[21]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:42]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:42]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[22]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:43]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:43]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[23]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:44]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:44]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[24]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:45]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:45]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[25]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:46]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:46]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[26]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:47]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:47]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[27]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:48]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:48]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[28]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:49]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:49]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[29]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:50]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:50]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[30]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:51]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:51]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[31]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:52]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:52]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_D[*]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:53]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:53]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_RAS'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:55]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:55]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_CAS'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:56]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:56]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_WE'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:57]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:57]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_S0'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:58]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:58]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_ODT'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:59]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:59]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_SKE0'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:60]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:60]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_RESET'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:61]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:61]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_BA0'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:63]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:63]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_BA1'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:64]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:64]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_BA2'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:65]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:65]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DM0'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:68]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:68]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DM1'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:69]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:69]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DM2'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:70]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:70]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DM3'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:71]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:71]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_CLK_P'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:74]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:74]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_CLK_N'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:75]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:75]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_CLK*'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:76]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:76]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_P0'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:78]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:78]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_N0'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:79]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:79]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_P1'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:80]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:80]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_N1'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:81]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:81]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_P2'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:82]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:82]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_N2'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:83]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:83]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_P3'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:84]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:84]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS_N3'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:85]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:85]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'DDR3_DQS*'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:86]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:86]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S_IN_P'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:91]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:91]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S_IN_N'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:92]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:92]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S_OUT_P'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:93]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:93]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S_OUT_N'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:94]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:94]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S_CLK_P'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:95]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:95]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S_CLK_N'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:96]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:96]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'SGMII_S*'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:97]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:97]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_RXD[0]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:100]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:100]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_RXD[1]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:101]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:101]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_RXD[2]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:102]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:102]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_RXD[3]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:103]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:103]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_TXD[0]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:104]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:104]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_TXD[1]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:105]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:105]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_TXD[2]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:106]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:106]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_TXD[3]'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:107]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:107]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_TXC'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:109]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:109]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_TX_EN'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:110]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:110]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_RXC'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:111]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:111]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'RGMII_RX_DV'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:112]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:112]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'ENET_MDC'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:115]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:115]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'ENET_MDIO'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:116]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:116]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'ENET_INTn'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:119]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:119]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'ENET_125MHZ'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:120]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:120]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'ENET_RESETn'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:121]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:121]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'PXY_RX_ERR'. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:125]
+INFO: [Common 17-14] Message 'Vivado 12-584' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:125]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc:125]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+Finished Parsing XDC File [D:/Projects/TERRA/PLIS/terra_test/terra_test.srcs/constrs_1/interfaces.xdc]
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 939.277 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+WARNING: [Constraints 18-5210] No constraints selected for write.
+Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.022 . Memory (MB): peak = 944.250 ; gain = 4.973
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 944.250 ; gain = 275.898
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a200tfbv484-2L
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 944.250 ; gain = 275.898
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 944.250 ; gain = 275.898
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 944.250 ; gain = 275.898
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+Hierarchical RTL Component report 
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 740 (col length:100)
+BRAMs: 730 (col length: RAMB18 100 RAMB36 50)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+Warning: Parallel synthesis criteria is not met 
+WARNING: [Synth 8-3330] design ADC_K5101HB04FI has an empty top module
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 944.250 ; gain = 275.898
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 986.094 ; gain = 317.742
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 986.094 ; gain = 317.742
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:10 ; elapsed = 00:00:11 . Memory (MB): peak = 995.641 ; gain = 327.289
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+----------------+------+
+|      |Cell            |Count |
++------+----------------+------+
+|1     |ADC_K5101HB04FI |     1|
++------+----------------+------+
+
+Report Instance Areas: 
++------+---------+-------+------+
+|      |Instance |Module |Cells |
++------+---------+-------+------+
+|1     |top      |       |     0|
++------+---------+-------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 1 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:08 ; elapsed = 00:00:11 . Memory (MB): peak = 1011.445 ; gain = 310.105
+Synthesis Optimization Complete : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 1011.445 ; gain = 343.094
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1038.750 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+12 Infos, 103 Warnings, 100 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 1038.750 ; gain = 683.043
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1038.750 ; gain = 0.000
+WARNING: [Constraints 18-5210] No constraints selected for write.
+Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
+INFO: [Common 17-1381] The checkpoint 'D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/synth_1/ADC_K5101HB04FI.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file ADC_K5101HB04FI_utilization_synth.rpt -pb ADC_K5101HB04FI_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 25 00:58:12 2024...

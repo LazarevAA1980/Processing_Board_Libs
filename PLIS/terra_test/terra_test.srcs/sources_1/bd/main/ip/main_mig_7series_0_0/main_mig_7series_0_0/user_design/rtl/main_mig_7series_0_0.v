@@ -89,9 +89,8 @@ module main_mig_7series_0_0 (
   // Differential system clocks
   input             sys_clk_p,
   input             sys_clk_n,
-  // differential iodelayctrl clk (reference clock)
-  input             clk_ref_p,
-  input             clk_ref_n,
+  // Single-ended iodelayctrl clk (reference clock)
+  input             clk_ref_i,
   // user interface signals
   output            ui_clk,
   output            ui_clk_sync_rst,
@@ -230,8 +229,7 @@ module main_mig_7series_0_0 (
     .sys_clk_p                       (sys_clk_p),
     .sys_clk_n                       (sys_clk_n),
     // Reference Clock Ports
-    .clk_ref_p                      (clk_ref_p),
-    .clk_ref_n                      (clk_ref_n),
+    .clk_ref_i                      (clk_ref_i),
        .device_temp            (device_temp),
        `ifdef SKIP_CALIB
        .calib_tap_req                    (calib_tap_req),

@@ -13,7 +13,7 @@ MIG Output Options:
 
 FPGA Options:
    System Clock Type               : Differential
-   Reference Clock Type            : Differential
+   Reference Clock Type            : No Buffer
    Debug Port                      : OFF
    Internal Vref                   : disabled
    IO Power Reduction              : ON
@@ -108,10 +108,6 @@ Bank Selections:
 		Byte Group T2:	DQ[16-23]
 		Byte Group T3:	DQ[24-31]
 
-
-Reference_Clock: 
-	SignalName: clk_ref_p/n
-		PadLocation: B17/B18(CC_P/N)  Bank: 16
 
 System_Clock: 
 	SignalName: sys_clk_p/n

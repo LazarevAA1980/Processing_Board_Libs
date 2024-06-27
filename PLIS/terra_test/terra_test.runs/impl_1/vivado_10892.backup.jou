@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 25 00:00:13 2024
+# Process ID: 10892
+# Current directory: D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/impl_1
+# Command line: vivado.exe -log ADC_K5101HB04FI.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ADC_K5101HB04FI.tcl -notrace
+# Log file: D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/impl_1/ADC_K5101HB04FI.vdi
+# Journal file: D:/Projects/TERRA/PLIS/terra_test/terra_test.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ADC_K5101HB04FI.tcl -notrace

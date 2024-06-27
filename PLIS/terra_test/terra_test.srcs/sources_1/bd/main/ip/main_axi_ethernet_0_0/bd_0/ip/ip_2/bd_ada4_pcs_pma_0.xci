@@ -95,10 +95,10 @@
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.GTX_CLK_PORT.INSERT_VIP">0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.GTX_CLK_PORT.PHASE">0.000</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.ASSOCIATED_BUSIF"/>
-        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.CLK_DOMAIN">/clk_wiz_clk_out1</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.FREQ_HZ">200000000</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.INSERT_VIP">0</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.PHASE">0.0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLOCK_PORT.ASSOCIATED_BUSIF"/>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLOCK_PORT.CLK_DOMAIN"/>
         <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLOCK_PORT.FREQ_HZ">100000000</spirit:configurableElementValue>
@@ -344,15 +344,16 @@
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_BUFG_OUT_PORT.CLK_DOMAIN" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_BUFG_OUT_PORT.FREQ_HZ" xilinx:valueSource="user" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_BUFG_PORT.FREQ_HZ" xilinx:valueSource="user" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_IN.FREQ_HZ" xilinx:valueSource="user_prop" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_OUT_PORT.ASSOCIATED_BUSIF" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_OUT_PORT.ASSOCIATED_RESET" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_OUT_PORT.CLK_DOMAIN" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_OUT_PORT.FREQ_HZ" xilinx:valueSource="user" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.GTREFCLK_PORT.FREQ_HZ" xilinx:valueSource="user" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.ASSOCIATED_BUSIF" xilinx:valuePermission="bd"/>
-            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.CLK_DOMAIN" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.CLK_DOMAIN" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.FREQ_HZ" xilinx:valueSource="user" xilinx:valuePermission="bd"/>
-            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.PHASE" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.INDEPENDENT_CLK_PORT.PHASE" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RXOUTCLK_PORT.FREQ_HZ" xilinx:valueSource="user" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RXUSERCLK2_OUT_PORT.ASSOCIATED_BUSIF" xilinx:valuePermission="bd"/>
             <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RXUSERCLK2_OUT_PORT.ASSOCIATED_RESET" xilinx:valuePermission="bd"/>
